@@ -1,0 +1,4740 @@
+{
+  "cats": [
+    {
+      "id": "bar",
+      "label": "Bar",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_62_2026-08-18_15-38-17_k1ica4.jpg",
+        "emoji": "🍸",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "salatlar",
+      "label": "Salat",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787077646/photo_3_2026-08-18_23-27-14_h47wbv.jpg",
+        "emoji": "🥗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "non",
+      "label": "Non",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049550/photo_72_2026-08-18_15-38-17_hr2vps.jpg",
+        "emoji": "🍞",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "sovuq-taomlar",
+      "label": "Gazaklar",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049551/photo_79_2026-08-18_15-38-17_m65tnz.jpg",
+        "emoji": "🥶",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "suyuq-taomlar",
+      "label": "Suyuq taomlar",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049551/photo_80_2026-08-18_15-38-17_ioud9i.jpg",
+        "emoji": "🍲",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "issiq-taomlar",
+      "label": "Issiq taomlar (Go'shtli taomlar)",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049551/photo_77_2026-08-18_15-38-17_zmiaia.jpg",
+        "emoji": "🍛",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "shashlik",
+      "label": "Shashlik",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049551/photo_76_2026-08-18_15-38-17_mx1ose.jpg",
+        "emoji": "🍢",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "hamir",
+      "label": "Hamirli taomlar",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049551/photo_78_2026-08-18_15-38-17_r6mfyr.jpg",
+        "emoji": "🥟",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "fastfood",
+      "label": "Fast Food (burger, lavash, pizza)",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049550/photo_67_2026-08-18_15-38-17_zsxpxh.jpg",
+        "emoji": "🍔",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "sushi",
+      "label": "Sushi (Sushi setlar)",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049550/photo_74_2026-08-18_15-38-17_x8dctu.jpg",
+        "emoji": "🍣",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "pasta",
+      "label": "Pasta",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049551/photo_75_2026-08-18_15-38-17_nu1s4f.jpg",
+        "emoji": "🍝",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "desert",
+      "label": "Desert",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049550/photo_73_2026-08-18_15-38-17_enzu6m.jpg",
+        "emoji": "🍰",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "garnir",
+      "label": "Garnir",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049550/photo_71_2026-08-18_15-38-17_rnfoax.jpg",
+        "emoji": "🥔",
+        "tone": "wheat"
+      }
+    }
+  ],
+  "subcats": [
+    {
+      "id": "ff-burger",
+      "cat": "fastfood",
+      "label": "Burgerlar",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049550/photo_68_2026-08-18_15-38-17_jvrq1g.jpg",
+        "emoji": "🍔",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "ff-lavash",
+      "cat": "fastfood",
+      "label": "Lavashlar",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049550/photo_69_2026-08-18_15-38-17_m1pm6r.jpg",
+        "emoji": "🌯",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "ff-pizza",
+      "cat": "fastfood",
+      "label": "Pizza dip",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049550/photo_70_2026-08-18_15-38-17_v8hv3j.jpg",
+        "emoji": "🍕",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "bar-ichimlik",
+      "cat": "bar",
+      "label": "Ichimliklar",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_63_2026-08-18_15-38-17_o5uvwh.jpg",
+        "emoji": "🥤",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-moxito",
+      "cat": "bar",
+      "label": "Moxito",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_64_2026-08-18_15-38-17_tg6pku.jpg",
+        "emoji": "🍹",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-fresh",
+      "cat": "bar",
+      "label": "Fresh",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_65_2026-08-18_15-38-17_g0dyhu.jpg",
+        "emoji": "🍊",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-choy",
+      "cat": "bar",
+      "label": "Choy",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787077646/photo_1_2026-08-18_23-27-14_yoszdl.jpg",
+        "emoji": "🍵",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-milkshake",
+      "cat": "bar",
+      "label": "Milk shake",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_66_2026-08-18_15-38-17_ocibjy.jpg",
+        "emoji": "🥤",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-kofe",
+      "cat": "bar",
+      "label": "Kofe",
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787077646/photo_2_2026-08-18_23-27-14_mbbzdr.jpg",
+        "emoji": "☕",
+        "tone": "clay"
+      }
+    }
+  ],
+  "menu": [
+    {
+      "id": "bar-cola",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Cola",
+      "desc": "",
+      "variants": [
+        {
+          "id": "0.5l",
+          "label": "0.5L",
+          "price": 8000
+        },
+        {
+          "id": "1l",
+          "label": "1L",
+          "price": 15000
+        },
+        {
+          "id": "1.5l",
+          "label": "1.5L",
+          "price": 18000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557028/photo_1_2026-08-11_17-18-14_mb81c3.jpg",
+        "emoji": "🥤",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-fanta",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Fanta",
+      "desc": "",
+      "variants": [
+        {
+          "id": "0.5l",
+          "label": "0.5L",
+          "price": 8000
+        },
+        {
+          "id": "1l",
+          "label": "1L",
+          "price": 15000
+        },
+        {
+          "id": "1.5l",
+          "label": "1.5L",
+          "price": 18000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557028/photo_2_2026-08-11_17-18-14_yuxlcn.jpg",
+        "emoji": "🥤",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-sprite",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Sprite",
+      "desc": "",
+      "variants": [
+        {
+          "id": "0.5l",
+          "label": "0.5L",
+          "price": 8000
+        },
+        {
+          "id": "1l",
+          "label": "1L",
+          "price": 15000
+        },
+        {
+          "id": "1.5l",
+          "label": "1.5L",
+          "price": 18000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557030/photo_3_2026-08-11_17-18-14_cgxwuk.jpg",
+        "emoji": "🥤",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-chortoq-0.33",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Chortoq 0.33L",
+      "desc": "",
+      "price": 12000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557033/photo_4_2026-08-11_17-18-14_efniwd.jpg",
+        "emoji": "💧",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-suvgazsiz-0.5",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Suv gazsiz 0.5L",
+      "desc": "",
+      "price": 5000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557038/photo_5_2026-08-11_17-18-14_bnca4k.jpg",
+        "emoji": "💧",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-suvgazsiz-1",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Suv gazsiz 1L",
+      "desc": "",
+      "price": 7000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557038/photo_5_2026-08-11_17-18-14_bnca4k.jpg",
+        "emoji": "💧",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-suvgazsiz-1.5",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Suv gazsiz 1.5L",
+      "desc": "",
+      "price": 10000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557038/photo_5_2026-08-11_17-18-14_bnca4k.jpg",
+        "emoji": "💧",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-gazlisuv-0.5",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Gazli suv 0.5L",
+      "desc": "",
+      "price": 5000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557040/photo_6_2026-08-11_17-18-14_bhge6e.jpg",
+        "emoji": "🥤",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-gazlisuv-1",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Gazli suv 1L",
+      "desc": "",
+      "price": 7000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557040/photo_6_2026-08-11_17-18-14_bhge6e.jpg",
+        "emoji": "🥤",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-gazlisuv-1.5",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Gazli suv 1.5L",
+      "desc": "",
+      "price": 10000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557040/photo_6_2026-08-11_17-18-14_bhge6e.jpg",
+        "emoji": "🥤",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-fusetea-0.5",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Fuse Tea 0.5L",
+      "desc": "",
+      "price": 8000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557041/photo_7_2026-08-11_17-18-14_r75agt.jpg",
+        "emoji": "🧃",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-lipton-0.5",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Lipton 0.5L",
+      "desc": "",
+      "price": 8000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557046/photo_8_2026-08-11_17-18-14_t2t2v5.jpg",
+        "emoji": "🧃",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-sok-sochnaya",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Sok \"Sochnaya dolina\"",
+      "desc": "",
+      "price": 20000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557051/photo_9_2026-08-11_17-18-14_jdjje5.jpg",
+        "emoji": "🧃",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-redbull",
+      "cat": "bar",
+      "sub": "bar-ichimlik",
+      "name": "Red Bull",
+      "desc": "",
+      "price": 25000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786557050/photo_10_2026-08-11_17-18-14_r4cozs.jpg",
+        "emoji": "⚡",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-moxito-classic-stakan",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Klassik moxito (stakan)",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_22_2026-08-17_14-14-12_zinliv.jpg",
+        "emoji": "🍹",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-moxito-classic-1l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Klassik moxito, 1L grafin",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_23_2026-08-17_14-14-12_e16ydq.jpg",
+        "emoji": "🫗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-moxito-classic-1.5l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Klassik moxito, 1.5L grafin",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_23_2026-08-17_14-14-12_e16ydq.jpg",
+        "emoji": "🫗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-moxito-qulupnay-stakan",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Qulupnay moxito (stakan)",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_24_2026-08-17_14-14-12_x6qdl5.jpg",
+        "emoji": "🍹",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-moxito-qulupnay-1l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Qulupnay moxito, 1L grafin",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_25_2026-08-17_14-14-12_jgxugo.jpg",
+        "emoji": "🫗",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-moxito-qulupnay-1.5l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Qulupnay moxito, 1.5L grafin",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_25_2026-08-17_14-14-12_jgxugo.jpg",
+        "emoji": "🫗",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-moxito-apelsin-stakan",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Apelsin moxito (stakan)",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958342/rasmlarrrr/photo_26_2026-08-17_14-14-12_rum2nu.jpg",
+        "emoji": "🍹",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-moxito-apelsin-1l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Apelsin moxito, 1L grafin",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958342/rasmlarrrr/photo_27_2026-08-17_14-14-12_b2avkb.jpg",
+        "emoji": "🫗",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-moxito-apelsin-1.5l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Apelsin moxito, 1.5L grafin",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958342/rasmlarrrr/photo_27_2026-08-17_14-14-12_b2avkb.jpg",
+        "emoji": "🫗",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-moxito-yagoda-stakan",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Yagoda moxito (stakan)",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958342/rasmlarrrr/photo_28_2026-08-17_14-14-12_btbh55.jpg",
+        "emoji": "🍹",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-moxito-yagoda-1l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Yagoda moxito, 1L grafin",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958342/rasmlarrrr/photo_29_2026-08-17_14-14-12_dj3vkz.jpg",
+        "emoji": "🫗",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-moxito-yagoda-1.5l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Yagoda moxito, 1.5L grafin",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958342/rasmlarrrr/photo_29_2026-08-17_14-14-12_dj3vkz.jpg",
+        "emoji": "🫗",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-moxito-mango-marakuya-stakan",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Mango-Marakuya moxito (stakan)",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958342/rasmlarrrr/photo_30_2026-08-17_14-14-12_apfsxp.jpg",
+        "emoji": "🍹",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-moxito-mango-marakuya-1l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Mango-Marakuya moxito, 1L grafin",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958343/rasmlarrrr/photo_31_2026-08-17_14-14-12_pbxczs.jpg",
+        "emoji": "🫗",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-moxito-mango-marakuya-1.5l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Mango-Marakuya moxito, 1.5L grafin",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958343/rasmlarrrr/photo_31_2026-08-17_14-14-12_pbxczs.jpg",
+        "emoji": "🫗",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-moxito-malina-stakan",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Malina moxito (stakan)",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958342/rasmlarrrr/photo_32_2026-08-17_14-14-12_hs7pwz.jpg",
+        "emoji": "🍹",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-moxito-malina-1l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Malina moxito, 1L grafin",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644294/photo_11_2026-08-13_19-35-00_p5sykz.jpg",
+        "emoji": "🫗",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-moxito-malina-1.5l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Malina moxito, 1.5L grafin",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644294/photo_11_2026-08-13_19-35-00_p5sykz.jpg",
+        "emoji": "🫗",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-moxito-kok-laguna-stakan",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Ko'k laguna moxito (stakan)",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644291/IMG_7271_tf2hmw.jpg",
+        "emoji": "🍹",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-moxito-kok-laguna-1l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Ko'k laguna moxito, 1L grafin",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644294/photo_12_2026-08-13_19-35-00_nogbsv.jpg",
+        "emoji": "🫗",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-moxito-kok-laguna-1.5l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Ko'k laguna moxito, 1.5L grafin",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644294/photo_12_2026-08-13_19-35-00_nogbsv.jpg",
+        "emoji": "🫗",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-moxito-tarxun-stakan",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Tarxun (stakan)",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644291/IMG_7273_fxeimg.jpg",
+        "emoji": "🍹",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-moxito-tarxun-1l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Tarxun, 1L grafin",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644294/photo_13_2026-08-13_19-35-00_ejjj9b.jpg",
+        "emoji": "🫗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-moxito-tarxun-1.5l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Tarxun, 1.5L grafin",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644294/photo_13_2026-08-13_19-35-00_ejjj9b.jpg",
+        "emoji": "🫗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-moxito-kivi-limonad-stakan",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Kivi limonad (stakan)",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644292/IMG_7302_mmkuvs.jpg",
+        "emoji": "🍹",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-moxito-kivi-limonad-1l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Kivi limonad, 1L grafin",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644276/IMG_7294_mry5hw.png",
+        "emoji": "🫗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-moxito-kivi-limonad-1.5l",
+      "cat": "bar",
+      "sub": "bar-moxito",
+      "name": "Kivi limonad, 1.5L grafin",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644276/IMG_7294_mry5hw.png",
+        "emoji": "🫗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-fresh-apelsin-stakan",
+      "cat": "bar",
+      "sub": "bar-fresh",
+      "name": "Fresh apelsin (stakan)",
+      "desc": "",
+      "price": 50000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_42_2026-08-18_15-38-17_e70ult.jpg",
+        "emoji": "🍊",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-fresh-apelsin-1l",
+      "cat": "bar",
+      "sub": "bar-fresh",
+      "name": "Fresh apelsin, 1L grafin",
+      "desc": "",
+      "price": 100000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_43_2026-08-18_15-38-17_fzhmvk.jpg",
+        "emoji": "🫗",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-fresh-olma-stakan",
+      "cat": "bar",
+      "sub": "bar-fresh",
+      "name": "Fresh olma (stakan)",
+      "desc": "",
+      "price": 25000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_44_2026-08-18_15-38-17_hswicc.jpg",
+        "emoji": "🍏",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-fresh-olma-1l",
+      "cat": "bar",
+      "sub": "bar-fresh",
+      "name": "Fresh olma, 1L grafin",
+      "desc": "",
+      "price": 80000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_45_2026-08-18_15-38-17_kesknv.jpg",
+        "emoji": "🫗",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-fresh-sabzi-stakan",
+      "cat": "bar",
+      "sub": "bar-fresh",
+      "name": "Fresh sabzi (stakan)",
+      "desc": "",
+      "price": 20000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049548/photo_46_2026-08-18_15-38-17_a0owo3.jpg",
+        "emoji": "🥕",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "bar-fresh-sabzi-1l",
+      "cat": "bar",
+      "sub": "bar-fresh",
+      "name": "Fresh sabzi, 1L grafin",
+      "desc": "",
+      "price": 50000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_47_2026-08-18_15-38-17_ekznsm.jpg",
+        "emoji": "🫗",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "bar-fresh-olma-sabzi-stakan",
+      "cat": "bar",
+      "sub": "bar-fresh",
+      "name": "Fresh olma-sabzi (stakan)",
+      "desc": "",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_48_2026-08-18_15-38-17_cr03vj.jpg",
+        "emoji": "🥕",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-fresh-olma-sabzi-1l",
+      "cat": "bar",
+      "sub": "bar-fresh",
+      "name": "Fresh olma-sabzi, 1L grafin",
+      "desc": "",
+      "price": 80000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_49_2026-08-18_15-38-17_m5ap6h.jpg",
+        "emoji": "🫗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-choy-kok",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Kok choy",
+      "desc": "",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049546/photo_33_2026-08-18_15-38-17_ofnykh.jpg",
+        "emoji": "🍵",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "bar-choy-qora",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Qora choy",
+      "desc": "",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049546/photo_34_2026-08-18_15-38-17_e6vjfh.jpg",
+        "emoji": "🍵",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-choy-limonli",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Choy limon bilan",
+      "desc": "",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049546/photo_35_2026-08-18_15-38-17_esodmo.jpg",
+        "emoji": "🍵",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-choy-karkade",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Karkade choy",
+      "desc": "",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049546/photo_36_2026-08-18_15-38-17_td2th4.jpg",
+        "emoji": "🍵",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "bar-choy-malina",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Malina choy",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049546/photo_37_2026-08-18_15-38-17_pxnwmd.jpg",
+        "emoji": "🍵",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-choy-mevali",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Mevali choy",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049546/photo_39_2026-08-18_15-38-17_vnruag.jpg",
+        "emoji": "🍵",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-choy-rezavor",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Rezavor choy",
+      "desc": "",
+      "price": 40000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049546/photo_38_2026-08-18_15-38-17_obsfpj.jpg",
+        "emoji": "🍵",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-choy-bardak-stakan",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Bardak choy (stakan)",
+      "desc": "",
+      "price": 5000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_40_2026-08-18_15-38-17_d7tztd.jpg",
+        "emoji": "🍵",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-choy-bardak-kichik-choynak",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Bardak choy, kichik choynak",
+      "desc": "",
+      "price": 25000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_41_2026-08-18_15-38-17_mffnul.jpg",
+        "emoji": "🫖",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-choy-bardak-katta-choynak",
+      "cat": "bar",
+      "sub": "bar-choy",
+      "name": "Bardak choy, katta choynak",
+      "desc": "",
+      "price": 40000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_41_2026-08-18_15-38-17_mffnul.jpg",
+        "emoji": "🫖",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-milkshake-molochniy",
+      "cat": "bar",
+      "sub": "bar-milkshake",
+      "name": "Milk shake — Sutli",
+      "desc": "",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049547/photo_50_2026-08-18_15-38-17_vsmpiv.jpg",
+        "emoji": "🥛",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-milkshake-bananoviy",
+      "cat": "bar",
+      "sub": "bar-milkshake",
+      "name": "Milk shake — Banan",
+      "desc": "",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049548/photo_51_2026-08-18_15-38-17_otblj7.jpg",
+        "emoji": "🍌",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "bar-milkshake-malinoviy",
+      "cat": "bar",
+      "sub": "bar-milkshake",
+      "name": "Milk shake — Malina",
+      "desc": "",
+      "price": 40000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049548/photo_52_2026-08-18_15-38-17_rmhl6b.jpg",
+        "emoji": "🍓",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "bar-milkshake-oreo",
+      "cat": "bar",
+      "sub": "bar-milkshake",
+      "name": "Milk shake — Oreo",
+      "desc": "",
+      "price": 45000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049548/photo_54_2026-08-18_15-38-17_wypr4x.jpg",
+        "emoji": "🍪",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "bar-milkshake-snickers",
+      "cat": "bar",
+      "sub": "bar-milkshake",
+      "name": "Milk shake — Snikers",
+      "price": 45000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_55_2026-08-18_15-38-17_okwn2p.jpg",
+        "emoji": "🍫",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "bar-kofe-espresso-kichik",
+      "cat": "bar",
+      "sub": "bar-kofe",
+      "name": "Espresso (kichik)",
+      "desc": "",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_56_2026-08-18_15-38-17_m0u4p2.jpg",
+        "emoji": "☕",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "bar-kofe-espresso-katta",
+      "cat": "bar",
+      "sub": "bar-kofe",
+      "name": "Espresso (katta)",
+      "desc": "",
+      "price": 20000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_56_2026-08-18_15-38-17_m0u4p2.jpg",
+        "emoji": "☕",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "bar-kofe-amerikano-m",
+      "cat": "bar",
+      "sub": "bar-kofe",
+      "name": "Amerikano M",
+      "desc": "",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049548/photo_57_2026-08-18_15-38-17_uywp5b.jpg",
+        "emoji": "☕",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-kofe-amerikano-b",
+      "cat": "bar",
+      "sub": "bar-kofe",
+      "name": "Amerikano B",
+      "desc": "",
+      "price": 25000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049548/photo_57_2026-08-18_15-38-17_uywp5b.jpg",
+        "emoji": "☕",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "bar-kofe-kapuchino",
+      "cat": "bar",
+      "sub": "bar-kofe",
+      "name": "Kapuchino",
+      "desc": "",
+      "price": 25000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049548/photo_58_2026-08-18_15-38-17_suojcw.jpg",
+        "emoji": "☕",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "bar-kofe-latte",
+      "cat": "bar",
+      "sub": "bar-kofe",
+      "name": "Latte",
+      "desc": "",
+      "price": 25000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049548/photo_59_2026-08-18_15-38-17_owrmur.jpg",
+        "emoji": "☕",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "bar-kofe-ice-latte",
+      "cat": "bar",
+      "sub": "bar-kofe",
+      "name": "Muzli latte (Ice Latte)",
+      "desc": "",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_60_2026-08-18_15-38-17_nch9ed.jpg",
+        "emoji": "🧊",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "bar-kofe-raf",
+      "cat": "bar",
+      "sub": "bar-kofe",
+      "name": "Raf",
+      "desc": "",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049549/photo_61_2026-08-18_15-38-17_ygt8iu.jpg",
+        "emoji": "☕",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "sal-achchiq-chuchuk",
+      "cat": "salatlar",
+      "name": "Salat achchiq-chuchuk",
+      "desc": "Qalampir, piyoz, tuz",
+      "price": 20000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958339/rasmlarrrr/1_hwn2go.jpg",
+        "emoji": "🥗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "sal-greciya",
+      "cat": "salatlar",
+      "name": "Salat Gretskiy",
+      "desc": "Pomidor, bodring, piyoz, bulg'or qalampiri, feta siri",
+      "price": 38000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958339/rasmlarrrr/2_bvhjhx.jpg",
+        "emoji": "🥗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "sal-kapriz",
+      "cat": "salatlar",
+      "name": "Mujskoy Kapriz",
+      "desc": "Mol go'shti, kopchenaya kolbasa, gauda siri, bodring, mayonez, qartoshka",
+      "price": 40000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958339/rasmlarrrr/3_jp4mve.jpg",
+        "emoji": "🥗",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "sal-yaponiya",
+      "cat": "salatlar",
+      "name": "Salat Yaponski",
+      "desc": "Bulg'or qalampiri (qizil, yashil, sariq), pomidor, bodring, mol go'shti (vyrezka)",
+      "price": 45000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/4_werq6k.jpg",
+        "emoji": "🥗",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "sal-gold",
+      "cat": "salatlar",
+      "name": "\"GOLD\" brendli salat",
+      "desc": "Salat miks, lavlagi, asal sousi, cherry pomidor, apelsin, mol go'shti (vyrezka)",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/photo_1_2026-08-17_14-14-12_ulsuae.jpg",
+        "emoji": "🥗",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "sal-baklajon",
+      "cat": "salatlar",
+      "name": "Xrustyashiy baqlajon",
+      "desc": "Qovurilgan baqlajon, salat miks, cherry pomidor, krem-pishloq",
+      "price": 45000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644286/%D0%A5%D1%80%D1%83%D1%81%D1%82%D1%8F%D1%89%D0%B8%D0%B9_%D0%B1%D0%B0%D0%BA%D0%BB%D0%B0%D0%B6%D0%B0%D0%BD_dfw3of.jpg",
+        "emoji": "🍆",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "sal-sezar",
+      "cat": "salatlar",
+      "name": "\"Aysberg Sezar\" salati",
+      "desc": "Tovuq fileti, bedana tuxumi, parmezan siri, krutonlar, sous",
+      "price": 42000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958344/rasmlarrrr/photo_3_2026-08-17_14-14-12_nemxvo.jpg",
+        "emoji": "🥗",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "sal-olive",
+      "cat": "salatlar",
+      "name": "Salat Olivye",
+      "desc": "Kartoshka, sabzi, bodring (tuzlangan), mayonez",
+      "price": 38000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_4_2026-08-17_14-14-12_j7h26s.jpg",
+        "emoji": "🥗",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "sal-qovoq",
+      "cat": "salatlar",
+      "name": "Qovoq peyniri salati",
+      "desc": "Salat miks, lavlagi, tvorog siri, apelsin, asal sousi, cherry pomidor, feta siri",
+      "price": 37000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958346/rasmlarrrr/photo_5_2026-08-17_14-14-12_u3kilk.jpg",
+        "emoji": "🥗",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "sal-miks",
+      "cat": "salatlar",
+      "name": "Salat miks",
+      "desc": "",
+      "price": 37000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/photo_1_2026-08-17_14-14-12_ulsuae.jpg",
+        "emoji": "🥗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "sal-baklajon-rulet",
+      "cat": "salatlar",
+      "name": "Baklajon ruleti",
+      "desc": "Qovurilgan baqlajon, panko krutoni, bodring, pomidor, bulg'or qalampiri, gauda siri",
+      "price": 40000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958348/rasmlarrrr/photo_6_2026-08-17_14-14-12_fealoe.jpg",
+        "emoji": "🍆",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "sal-vitaminli",
+      "cat": "salatlar",
+      "name": "Salat \"Vitaminli\"",
+      "desc": "Oq karam, qizil karam, tuz, murch, o'simlik yog'i, adjika",
+      "price": 22000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958349/rasmlarrrr/photo_7_2026-08-17_14-14-12_srovbl.jpg",
+        "emoji": "🥗",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "is-gibroy",
+      "cat": "suyuq-taomlar",
+      "name": "Gribnoy krem-supi",
+      "desc": "Qo'ziqorin, kartoshka, bulg'or qalampiri, go'sht",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958350/rasmlarrrr/photo_8_2026-08-17_14-14-12_wq58q7.jpg",
+        "emoji": "🍲",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "is-chechevichniy",
+      "cat": "suyuq-taomlar",
+      "name": "Chechevichniy sup",
+      "desc": "Sabzi, piyoz, yasmiq, qaymoq, sarimsoq",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958350/rasmlarrrr/photo_9_2026-08-17_14-14-12_o3h0w6.jpg",
+        "emoji": "🍲",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "is-mastava",
+      "cat": "suyuq-taomlar",
+      "name": "Mastava",
+      "desc": "Sabzi, piyoz, kartoshka, bulg'or qalampiri, go'sht",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/photo_10_2026-08-17_14-14-12_wgj7b6.jpg",
+        "emoji": "🍲",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "is-non-oshi",
+      "cat": "suyuq-taomlar",
+      "name": "Un oshi",
+      "desc": "Qiyma, hamir, tuz",
+      "price": 25000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/photo_11_2026-08-17_14-14-12_p5dzim.jpg",
+        "emoji": "🍲",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "is-borsh",
+      "cat": "suyuq-taomlar",
+      "name": "Borsh",
+      "desc": "Lavlagi, karam, piyoz, sabzi, go'sht",
+      "price": 28000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/photo_12_2026-08-17_14-14-12_m7s8yn.jpg",
+        "emoji": "🍲",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "ff-chizburger",
+      "cat": "fastfood",
+      "sub": "ff-burger",
+      "name": "Chizburger",
+      "desc": "Kotlet, sir, salat bargi, pomidor, bodring, sarimsoq sous",
+      "price": 40000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/photo_13_2026-08-17_14-14-12_awsfjd.jpg",
+        "emoji": "🍔",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "ff-chizburger-2",
+      "cat": "fastfood",
+      "sub": "ff-burger",
+      "name": "Chizburger 2x",
+      "desc": "",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_14_2026-08-17_14-14-12_ul694i.jpg",
+        "emoji": "🍔",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "ff-euro-gold",
+      "cat": "fastfood",
+      "sub": "ff-burger",
+      "name": "Euro Gold Burger",
+      "desc": "Kotlet, salat bargi, pomidor, bodring, sir, sirli sous",
+      "price": 50000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_15_2026-08-17_14-14-12_mxmxnb.jpg",
+        "emoji": "🍔",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "ff-steyk-burger-3",
+      "cat": "fastfood",
+      "sub": "ff-burger",
+      "name": "Steyk burger (3 dona)",
+      "desc": "",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786819554/photo_2026-08-15_23-34-36_ggd37w.jpg",
+        "emoji": "🍔",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "ff-lavash-klassik",
+      "cat": "fastfood",
+      "sub": "ff-lavash",
+      "name": "Lavash Klassik",
+      "desc": "Go'sht, pomidor, bodring, chips, mayonez, tomat sousi",
+      "price": 40000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_16_2026-08-17_14-14-12_unlmnd.jpg",
+        "emoji": "🌯",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "ff-lavash-zirali",
+      "cat": "fastfood",
+      "sub": "ff-lavash",
+      "name": "Lavash Ostriy",
+      "desc": "",
+      "price": 45000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958341/rasmlarrrr/photo_17_2026-08-17_14-14-12_e1jsad.jpg",
+        "emoji": "🌯",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "ff-lavash-peynili",
+      "cat": "fastfood",
+      "sub": "ff-lavash",
+      "name": "Lavash Sirniy",
+      "desc": "Go'sht, pomidor, bodring, chips, mayonez, tomat sousi, chedder siri",
+      "price": 45000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958339/rasmlarrrr/photo_18_2026-08-17_14-14-12_w6vjfn.jpg",
+        "emoji": "🌯",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "ff-doner",
+      "cat": "fastfood",
+      "sub": "ff-lavash",
+      "name": "Doner",
+      "desc": "Go'sht, pomidor, bodring, mayonez, tomat sousi, donar noni",
+      "price": 40000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/photo_19_2026-08-17_14-14-12_zcz8t5.jpg",
+        "emoji": "🌯",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "ff-tandir-lavash",
+      "cat": "fastfood",
+      "sub": "ff-lavash",
+      "name": "Tandir lavashi",
+      "desc": "Go'sht, pomidor, bodring, chips, mayonez, tomat sousi, kunjut, chedder siri",
+      "price": 45000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/photo_20_2026-08-17_14-14-12_skxhpv.jpg",
+        "emoji": "🌯",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "ff-iskandar",
+      "cat": "fastfood",
+      "sub": "ff-lavash",
+      "name": "Iskandar kabob",
+      "desc": "Go'sht, qalampir, sous, suzma, pomidor, non, eritilgan sariyog'",
+      "price": 80000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958340/rasmlarrrr/photo_21_2026-08-17_14-14-12_yebkwk.jpg",
+        "emoji": "🍖",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "ff-pizza-pepperoni",
+      "cat": "fastfood",
+      "sub": "ff-pizza",
+      "name": "Pizza dip \"Pepperoni\"",
+      "desc": "",
+      "variants": [
+        {
+          "id": "kichik",
+          "label": "Kichik",
+          "price": 55000
+        },
+        {
+          "id": "orta",
+          "label": "O'rta",
+          "price": 75000
+        },
+        {
+          "id": "katta",
+          "label": "Katta",
+          "price": 95000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958343/rasmlarrrr/photo_35_2026-08-17_14-14-12_gygyli.jpg",
+        "emoji": "🍕",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "ff-pizza-goshtli",
+      "cat": "fastfood",
+      "sub": "ff-pizza",
+      "name": "Pizza dip \"Go'shtli\"",
+      "desc": "",
+      "variants": [
+        {
+          "id": "kichik",
+          "label": "Kichik",
+          "price": 65000
+        },
+        {
+          "id": "orta",
+          "label": "O'rta",
+          "price": 85000
+        },
+        {
+          "id": "katta",
+          "label": "Katta",
+          "price": 105000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958343/rasmlarrrr/photo_36_2026-08-17_14-14-12_bpe7h5.jpg",
+        "emoji": "🍕",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "ff-pizza-miks",
+      "cat": "fastfood",
+      "sub": "ff-pizza",
+      "name": "Pizza dip \"Miks\"",
+      "desc": "",
+      "variants": [
+        {
+          "id": "kichik",
+          "label": "Kichik",
+          "price": 65000
+        },
+        {
+          "id": "orta",
+          "label": "O'rta",
+          "price": 85000
+        },
+        {
+          "id": "katta",
+          "label": "Katta",
+          "price": 110000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958343/rasmlarrrr/photo_39_2026-08-17_14-14-12_gsobak.jpg",
+        "emoji": "🍕",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "ff-pizza-tovuqli",
+      "cat": "fastfood",
+      "sub": "ff-pizza",
+      "name": "Pizza dip \"Tovuqli\"",
+      "desc": "",
+      "variants": [
+        {
+          "id": "kichik",
+          "label": "Kichik",
+          "price": 55000
+        },
+        {
+          "id": "orta",
+          "label": "O'rta",
+          "price": 75000
+        },
+        {
+          "id": "katta",
+          "label": "Katta",
+          "price": 105000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958343/rasmlarrrr/photo_37_2026-08-17_14-14-12_fwiudj.jpg",
+        "emoji": "🍕",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "ff-pizza-santa-barbara",
+      "cat": "fastfood",
+      "sub": "ff-pizza",
+      "name": "Pizza dip \"Santa-Barbara\"",
+      "desc": "",
+      "variants": [
+        {
+          "id": "kichik",
+          "label": "Kichik",
+          "price": 65000
+        },
+        {
+          "id": "orta",
+          "label": "O'rta",
+          "price": 85000
+        },
+        {
+          "id": "katta",
+          "label": "Katta",
+          "price": 110000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958344/rasmlarrrr/photo_40_2026-08-17_14-14-12_rh9lyb.jpg",
+        "emoji": "🍕",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "ff-pizza-qoziqorin",
+      "cat": "fastfood",
+      "sub": "ff-pizza",
+      "name": "Pizza dip \"Qo'ziqorinli\"",
+      "desc": "",
+      "variants": [
+        {
+          "id": "kichik",
+          "label": "Kichik",
+          "price": 55000
+        },
+        {
+          "id": "orta",
+          "label": "O'rta",
+          "price": 75000
+        },
+        {
+          "id": "katta",
+          "label": "Katta",
+          "price": 95000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958343/rasmlarrrr/photo_38_2026-08-17_14-14-12_su0fmq.jpg",
+        "emoji": "🍕",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "ff-pizza-korichka",
+      "cat": "fastfood",
+      "sub": "ff-pizza",
+      "name": "Pizza dip \"Korichka\"",
+      "desc": "",
+      "variants": [
+        {
+          "id": "orta",
+          "label": "O'rta",
+          "price": 90000
+        },
+        {
+          "id": "katta",
+          "label": "Katta",
+          "price": 110000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958344/rasmlarrrr/photo_41_2026-08-17_14-14-12_tkanan.jpg",
+        "emoji": "🍕",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "shashlik-ijjon",
+      "cat": "shashlik",
+      "name": "Ijjon shashlik",
+      "price": 16000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958348/rasmlarrrr/photo_70_2026-08-17_14-14-12_qt5djg.jpg",
+        "emoji": "🍢",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "shashlik-qanotchalar",
+      "cat": "shashlik",
+      "name": "Qanotchalar",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958348/rasmlarrrr/photo_71_2026-08-17_14-14-12_utsdnj.jpg",
+        "emoji": "🍗",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "shashlik-mol-boklakli",
+      "cat": "shashlik",
+      "name": "Bo'lakli mol go'shti shashlik",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958348/rasmlarrrr/photo_72_2026-08-17_14-14-12_oeb7nk.jpg",
+        "emoji": "🍢",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "shashlik-semechka-qoy",
+      "cat": "shashlik",
+      "name": "Semechka shashlik (qo'y go'shtidan)",
+      "price": 25000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958348/rasmlarrrr/photo_73_2026-08-17_14-14-12_jtn9ha.jpg",
+        "emoji": "🍢",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "hamir-shivit-oshi",
+      "cat": "hamir",
+      "name": "Shivit oshi",
+      "desc": "Yashil hamir, kartoshka, qatiq",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958344/rasmlarrrr/photo_45_2026-08-17_14-14-12_slvzs6.jpg",
+        "emoji": "🥟",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "hamir-olot-somsa",
+      "cat": "hamir",
+      "name": "Olot somsa",
+      "variants": [
+        {
+          "id": "1dona",
+          "label": "1 dona",
+          "price": 13000
+        },
+        {
+          "id": "3dona",
+          "label": "3 dona",
+          "price": 35000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958344/rasmlarrrr/photo_44_2026-08-17_14-14-12_hsykw2.jpg",
+        "emoji": "🥟",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "hamir-qoshirma-goshtli",
+      "cat": "hamir",
+      "name": "Kapshirma — Go'shtli",
+      "price": 20000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958344/rasmlarrrr/photo_46_2026-08-17_14-14-12_xkpk04.jpg",
+        "emoji": "🥟",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "hamir-qoshirma-pishloqli",
+      "cat": "hamir",
+      "name": "Kapshirma — Pishloqli",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_48_2026-08-17_14-14-12_sahowu.jpg",
+        "emoji": "🥟",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "hamir-qoshirma-qovoqli",
+      "cat": "hamir",
+      "name": "Kapshirma — Qovoqli",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_48_2026-08-17_14-14-12_sahowu.jpg",
+        "emoji": "🥟",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "hamir-qoshirma-brinza-kok",
+      "cat": "hamir",
+      "name": "Kapshirma — Brinza va ko'katli",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_48_2026-08-17_14-14-12_sahowu.jpg",
+        "emoji": "🥟",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "hamir-qoshirma-pishloq-kok",
+      "cat": "hamir",
+      "name": "Kapshirma — Pishloq va ko'katli",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_48_2026-08-17_14-14-12_sahowu.jpg",
+        "emoji": "🥟",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "hamir-qoshirma-ismaloqli",
+      "cat": "hamir",
+      "name": "Kapshirma — Ismaloqli",
+      "price": 18000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958344/rasmlarrrr/photo_47_2026-08-17_14-14-12_yaiiw4.jpg",
+        "emoji": "🥟",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "hamir-gumma-goshtli",
+      "cat": "hamir",
+      "name": "Gumma — Go'shtli",
+      "price": 20000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_49_2026-08-17_14-14-12_jakxni.jpg",
+        "emoji": "🥟",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "hamir-gumma-ismaloqli",
+      "cat": "hamir",
+      "name": "Gumma — Ismaloqli",
+      "price": 18000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_50_2026-08-17_14-14-12_myvf0l.jpg",
+        "emoji": "🥟",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "hamir-gumma-pishloqli",
+      "cat": "hamir",
+      "name": "Gumma — Pishloqli",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_51_2026-08-17_14-14-12_abi7e1.jpg",
+        "emoji": "🥟",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "hamir-gumma-qovoqli",
+      "cat": "hamir",
+      "name": "Gumma — Qovoqli",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_51_2026-08-17_14-14-12_abi7e1.jpg",
+        "emoji": "🥟",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "hamir-gumma-brinza-kok",
+      "cat": "hamir",
+      "name": "Gumma — Brinza va ko'katli",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_51_2026-08-17_14-14-12_abi7e1.jpg",
+        "emoji": "🥟",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "hamir-gumma-pishloq-kok",
+      "cat": "hamir",
+      "name": "Gumma — Pishloq va ko'katli",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_51_2026-08-17_14-14-12_abi7e1.jpg",
+        "emoji": "🥟",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "hamir-barak-kadi",
+      "cat": "hamir",
+      "name": "Kadi barak",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_52_2026-08-17_14-14-12_tkd4je.jpg",
+        "emoji": "🥟",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "hamir-barak-tuxum",
+      "cat": "hamir",
+      "name": "Tuxum barak",
+      "price": 38000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_53_2026-08-17_14-14-12_tbarao.jpg",
+        "emoji": "🥟",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "hamir-barak-kok",
+      "cat": "hamir",
+      "name": "Ko'k barak",
+      "price": 32000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958345/rasmlarrrr/photo_54_2026-08-17_14-14-12_ybhisy.jpg",
+        "emoji": "🥟",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "hamir-barak-kutir",
+      "cat": "hamir",
+      "name": "Kutir barak",
+      "price": 40000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958346/rasmlarrrr/photo_55_2026-08-17_14-14-12_kgjqax.jpg",
+        "emoji": "🥟",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "hamir-barak-assorti",
+      "cat": "hamir",
+      "name": "Barak assorti",
+      "price": 110000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644297/3229ecf710794190af5a051ea7504568-216x188_a1r5sh.jpg",
+        "emoji": "🥟",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "hamir-pelmeni",
+      "cat": "hamir",
+      "name": "Pelmeni",
+      "price": 30000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644288/IMG_7359_fdllgr.jpg",
+        "emoji": "🥟",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "hamir-pelmeni-qovurilgan",
+      "cat": "hamir",
+      "name": "Qovurilgan pelmeni",
+      "price": 37000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958346/rasmlarrrr/photo_57_2026-08-17_14-14-12_broh08.jpg",
+        "emoji": "🥟",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "issiq-shur-kabob",
+      "cat": "issiq-taomlar",
+      "name": "Shur kabob (200 gr)",
+      "price": 60000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958346/rasmlarrrr/photo_58_2026-08-17_14-14-12_c6scmf.jpg",
+        "emoji": "🍛",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "issiq-qaymoq-kabob",
+      "cat": "issiq-taomlar",
+      "name": "Qaymoq kabob",
+      "price": 68000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958346/rasmlarrrr/photo_59_2026-08-17_14-14-12_yeb8vt.jpg",
+        "emoji": "🍛",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "issiq-saryoga-dil",
+      "cat": "issiq-taomlar",
+      "name": "Saryoga — Ukrop",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958346/rasmlarrrr/photo_60_2026-08-17_14-14-12_ezdbrr.jpg",
+        "emoji": "🍛",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "issiq-saryoga-tovuq",
+      "cat": "issiq-taomlar",
+      "name": "Saryoga — Tovuq",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958347/rasmlarrrr/photo_63_2026-08-17_14-14-12_m1ceqt.jpg",
+        "emoji": "🍛",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "issiq-bifshtrogonov",
+      "cat": "issiq-taomlar",
+      "name": "Bifshtrogonov pyure bilan",
+      "desc": "Pyure, mol go'shti (vyrezka), qo'ziqorin sousi",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958347/rasmlarrrr/photo_61_2026-08-17_14-14-12_g6frji.jpg",
+        "emoji": "🍛",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "issiq-kasharli-kofte",
+      "cat": "issiq-taomlar",
+      "name": "Kasharli kofte",
+      "desc": "Qiyma, motsarella siri, chedder siri",
+      "price": 85000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958347/rasmlarrrr/photo_62_2026-08-17_14-14-12_xt6mfh.jpg",
+        "emoji": "🍛",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "issiq-oltin-juja",
+      "cat": "issiq-taomlar",
+      "name": "Oltin juja (1 dona)",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958347/rasmlarrrr/photo_64_2026-08-17_14-14-12_kfuieg.jpg",
+        "emoji": "🍗",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "issiq-klassik-steyk",
+      "cat": "issiq-taomlar",
+      "name": "Klassik steyk (250 gr)",
+      "price": 95000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958347/rasmlarrrr/photo_65_2026-08-17_14-14-12_huwpa1.jpg",
+        "emoji": "🥩",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "issiq-zigirik",
+      "cat": "issiq-taomlar",
+      "name": "Zigirik (dumg'aza)",
+      "price": 85000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958347/rasmlarrrr/photo_66_2026-08-17_14-14-12_cxpbjf.jpg",
+        "emoji": "🍛",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "issiq-steyk-bonfile",
+      "cat": "issiq-taomlar",
+      "name": "Steyk bon-file",
+      "desc": "",
+      "variants": [
+        {
+          "id": "demiglas",
+          "label": "Demiglas sous",
+          "price": 180000
+        },
+        {
+          "id": "sariyog",
+          "label": "Sariyog' sousi",
+          "price": 180000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049545/photo_25_2026-08-18_15-38-17_ztr0mx.jpg",
+        "emoji": "🥩",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "issiq-xan-burger",
+      "cat": "issiq-taomlar",
+      "name": "Xan burger",
+      "variants": [
+        {
+          "id": "3dona",
+          "label": "3 dona",
+          "price": 70000
+        },
+        {
+          "id": "6dona",
+          "label": "6 dona",
+          "price": 135000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958347/rasmlarrrr/photo_67_2026-08-17_14-14-12_pfur9j.jpg",
+        "emoji": "🍔",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "issiq-plita-kabob",
+      "cat": "issiq-taomlar",
+      "name": "Plita kabob",
+      "desc": "Non, go'sht (vyrezka), piyoz, qizil pomidor",
+      "price": 150000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958347/rasmlarrrr/photo_68_2026-08-17_14-14-12_gihs13.jpg",
+        "emoji": "🍛",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "issiq-medalyon-mol",
+      "cat": "issiq-taomlar",
+      "name": "Mol go'shti medalyoni",
+      "price": 95000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644288/IMG_7360_ekmylx.jpg",
+        "emoji": "🥩",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "sovuq-assorti",
+      "cat": "sovuq-taomlar",
+      "name": "Sovuq assorti",
+      "price": 150000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644293/IMG_7353_jzjyzt.jpg",
+        "emoji": "🥶",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "sovuq-3-kunlik",
+      "cat": "sovuq-taomlar",
+      "name": "3 kunlik",
+      "price": 20000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644293/IMG_7356_cmm9j8.jpg",
+        "emoji": "🥶",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "sovuq-meva-assorti",
+      "cat": "sovuq-taomlar",
+      "name": "Meva assorti",
+      "variants": [
+        {
+          "id": "kichik",
+          "label": "Kichik",
+          "price": 100000
+        },
+        {
+          "id": "katta",
+          "label": "Katta",
+          "price": 150000
+        }
+      ],
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644293/IMG_7354_q7b8vc.jpg",
+        "emoji": "🍇",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "garnir-kartoshka-aydaho",
+      "cat": "garnir",
+      "name": "Kartoshka Aydaho",
+      "price": 20000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644282/IMG_20260401_102553_ezocyz.jpg",
+        "emoji": "🥔",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "garnir-kartoshka-fri",
+      "cat": "garnir",
+      "name": "Kartoshka fri",
+      "price": 18000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644290/IMG_20260401_102613_mfujsy.jpg",
+        "emoji": "🍟",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "garnir-sous-tomat",
+      "cat": "garnir",
+      "name": "Sous tomatli",
+      "price": 5000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644281/IMG_20260401_102226_qus687.jpg",
+        "emoji": "🥫",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "garnir-sous-pishloq",
+      "cat": "garnir",
+      "name": "Sous pishloqli",
+      "price": 5000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644281/IMG_20260401_102250_w4m4if.jpg",
+        "emoji": "🧀",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "sushi-filadelfiya",
+      "cat": "sushi",
+      "name": "Filadelfiya",
+      "desc": "Guruch, nori, bodring, krem-pishloq",
+      "price": 80000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958349/rasmlarrrr/photo_75_2026-08-17_14-14-12_e3mren.jpg",
+        "emoji": "🍣",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "sushi-fila-zapechenniy",
+      "cat": "sushi",
+      "name": "Fila zapechyonniy",
+      "desc": "Guruch, nori, bodring, krem-pishloq, spicy sous",
+      "price": 85000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958348/rasmlarrrr/photo_74_2026-08-17_14-14-12_zyuxvi.jpg",
+        "emoji": "🍣",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "sushi-samurai",
+      "cat": "sushi",
+      "name": "Roll Samurai",
+      "desc": "Guruch, nori, losos, spicy sous, omlet, krem-pishloq",
+      "price": 67000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958349/rasmlarrrr/photo_76_2026-08-17_14-14-12_xkaysk.jpg",
+        "emoji": "🍣",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "sushi-losos-zapechenniy",
+      "cat": "sushi",
+      "name": "Losos zapechyonniy",
+      "desc": "Guruch, krem-pishloq, omlet, bodring, nori, losos, spicy sous",
+      "price": 53000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958349/rasmlarrrr/photo_77_2026-08-17_14-14-12_kxzjnf.jpg",
+        "emoji": "🍣",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "sushi-krab-zapechenniy",
+      "cat": "sushi",
+      "name": "Krab zapechyonniy",
+      "desc": "Guruch, nori, krem-pishloq, omlet, spicy sous, krab go'shti",
+      "price": 68000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958349/rasmlarrrr/photo_78_2026-08-17_14-14-12_nms6nx.jpg",
+        "emoji": "🍣",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "sushi-krevetka-zapechenniy",
+      "cat": "sushi",
+      "name": "Krevetka zapechyonniy",
+      "desc": "Guruch, nori, krem-pishloq, omlet, spicy sous, krevetka",
+      "price": 77000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958349/rasmlarrrr/photo_81_2026-08-17_14-14-12_xnbdiu.jpg",
+        "emoji": "🍣",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "sushi-ugor-zapechenniy",
+      "cat": "sushi",
+      "name": "Ugor zapechyonniy",
+      "desc": "Guruch, krem-pishloq, nori, bodring, omlet, spicy sous, kunjut, ugor baliq",
+      "price": 75000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958349/rasmlarrrr/photo_79_2026-08-17_14-14-12_yildkz.jpg",
+        "emoji": "🍣",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "sushi-midi-zapechenniy",
+      "cat": "sushi",
+      "name": "Midi zapechyonniy",
+      "desc": "Guruch, krem-pishloq, nori, bodring, omlet, spicy sous, midiya",
+      "price": 78000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958349/rasmlarrrr/photo_80_2026-08-17_14-14-12_p23gsy.jpg",
+        "emoji": "🍣",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "sushi-roll-jareniy",
+      "cat": "sushi",
+      "name": "Qovurilgan roll",
+      "desc": "Bodring, losos, krem-pishloq, tempura, nori",
+      "price": 70000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644288/IMG_7361_mshkqu.jpg",
+        "emoji": "🍣",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "sushi-chicken-zapechenniy",
+      "cat": "sushi",
+      "name": "Chicken zapechyonniy",
+      "desc": "Krem-pishloq, qovurilgan tovuq, bodring, bulg'or qalampiri, iceberg salat",
+      "price": 65000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644271/IMG_3370_skomoh.jpg",
+        "emoji": "🍣",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "sushi-midi-rakushka",
+      "cat": "sushi",
+      "name": "Midi rakushka",
+      "desc": "Midiya, spicy sous",
+      "price": 60000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958350/rasmlarrrr/photo_84_2026-08-17_14-14-12_nfcqxz.jpg",
+        "emoji": "🍣",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "sushi-set-semeyniy",
+      "cat": "sushi",
+      "name": "Semeyniy set",
+      "desc": "",
+      "price": 175000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958350/rasmlarrrr/photo_85_2026-08-17_14-14-12_zhgqke.jpg",
+        "emoji": "🍱",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "sushi-set-dustlar",
+      "cat": "sushi",
+      "name": "Set Dustlar",
+      "desc": "Tovuqli zapechyoniy, ugor zapechyoniy, midiya zapechyoniy, samurai, fila layt",
+      "price": 265000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958350/rasmlarrrr/photo_86_2026-08-17_14-14-12_zuuh10.jpg",
+        "emoji": "🍱",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "sushi-set-katta",
+      "cat": "sushi",
+      "name": "Katta set",
+      "desc": "Filadelfiya, tovuqli zapechyoniy, krab zapechyoniy, krevetka zapechyoniy, midiya zapechyoniy, ugor zapechyoniy",
+      "price": 320000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958350/rasmlarrrr/photo_87_2026-08-17_14-14-12_jac52p.jpg",
+        "emoji": "🍱",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "sushi-krevetki-jarenye",
+      "cat": "sushi",
+      "name": "Креветки жареные",
+      "price": 60000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786958350/rasmlarrrr/photo_83_2026-08-17_14-14-12_qnawib.jpg",
+        "emoji": "🍤",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "zakuski-grenki",
+      "cat": "sushi",
+      "name": "Grenki",
+      "desc": "Non, spicy sous",
+      "price": 20000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644280/IMG_20260401_102058_uimjkq.jpg",
+        "emoji": "🍞",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "pasta-alfredo",
+      "cat": "pasta",
+      "name": "Alfredo",
+      "desc": "Fettuccine lag'mon, shampinyon, cherry pomidor, qaymoq",
+      "price": 55000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_10_2026-08-18_15-38-17_oxdf9i.jpg",
+        "emoji": "🍝",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "pasta-penne-goshtli",
+      "cat": "pasta",
+      "name": "Penne go'shtli",
+      "desc": "Penne makaron, go'sht, tomat sousi, parmezan siri",
+      "price": 50000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_13_2026-08-18_15-38-17_tsv1qu.jpg",
+        "emoji": "🍝",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "pasta-udon-tovuq",
+      "cat": "pasta",
+      "name": "Udon tovuqli",
+      "desc": "Udon lag'mon, tovuq fileti, sous, sabzi, bulg'or qalampiri, qovoqcha",
+      "price": 37000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_11_2026-08-18_15-38-17_yd59sf.jpg",
+        "emoji": "🍜",
+        "tone": "herb"
+      }
+    },
+    {
+      "id": "pasta-udon-goshtli",
+      "cat": "pasta",
+      "name": "Udon go'shtli",
+      "desc": "Udon lag'mon, go'sht, unagi sousi, sabzi, bulg'or qalampiri, qovoqcha",
+      "price": 37000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_12_2026-08-18_15-38-17_blepnh.jpg",
+        "emoji": "🍜",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "non-lepyoshka",
+      "cat": "non",
+      "name": "Lepyoshka",
+      "price": 8000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049542/photo_4_2026-08-18_15-38-17_qf99km.jpg",
+        "emoji": "🍞",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "non-churak",
+      "cat": "non",
+      "name": "Churak non",
+      "price": 8000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049544/photo_5_2026-08-18_15-38-17_eu0ypk.jpg",
+        "emoji": "🍞",
+        "tone": "wheat"
+      }
+    },
+    {
+      "id": "non-qizil-patir",
+      "cat": "non",
+      "name": "Qizil patir",
+      "price": 10000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_3_2026-08-18_15-38-17_lv729h.jpg",
+        "emoji": "🍞",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "non-baget",
+      "cat": "non",
+      "name": "Baget non",
+      "price": 10000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049542/photo_2_2026-08-18_15-38-17_im3xxz.jpg",
+        "emoji": "🥖",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "non-assorti",
+      "cat": "non",
+      "name": "Non assorti",
+      "price": 25000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_1_2026-08-18_15-38-17_rizg1z.jpg",
+        "emoji": "🍞",
+        "tone": "clay"
+      }
+    },
+    {
+      "id": "desert-chizkeyk-san-sebastian",
+      "cat": "desert",
+      "name": "Chizkeyk San-Sebastian",
+      "price": 50000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1786644273/IMG_3393_inncix.jpg",
+        "emoji": "🍰",
+        "tone": "berry"
+      }
+    },
+    {
+      "id": "desert-shokolad-fondan",
+      "cat": "desert",
+      "name": "Shokoladli fondan",
+      "price": 35000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_7_2026-08-18_15-38-17_ww45wo.jpg",
+        "emoji": "🍫",
+        "tone": "ember"
+      }
+    },
+    {
+      "id": "desert-belgiya-vaflasi",
+      "cat": "desert",
+      "name": "Belgiya vaflasi (miks)",
+      "price": 65000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_6_2026-08-18_15-38-17_aa2yes.jpg",
+        "emoji": "🧇",
+        "tone": "gold"
+      }
+    },
+    {
+      "id": "desert-morojniy-3sharik",
+      "cat": "desert",
+      "name": "Morojniy (3 sharik)",
+      "price": 10000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_8_2026-08-18_15-38-17_xomae8.jpg",
+        "emoji": "🍨",
+        "tone": "aqua"
+      }
+    },
+    {
+      "id": "desert-morojniy-nutella",
+      "cat": "desert",
+      "name": "Morojniy nutella bilan",
+      "price": 15000,
+      "image": {
+        "url": "https://res.cloudinary.com/avreirnk/image/upload/v1787049543/photo_9_2026-08-18_15-38-17_fvzkvt.jpg",
+        "emoji": "🍨",
+        "tone": "berry"
+      }
+    }
+  ],
+  "uiI18n": {
+    "uz": {
+      "menu_word": "Menu",
+      "menu_sub": "Taomlar ro'yxati",
+      "reserve_label": "Stol bron qilish",
+      "delivery_label": "Yetkazib berish",
+      "feedback_label": "Taklif va shikoyatlar",
+      "feedback_sub": "Fikringizni bildiring",
+      "footer": "© 2026 Gold Restaurant — barcha huquqlar himoyalangan",
+      "location": "Urganch Shahar, Al-Xorazmiy 102",
+      "search_placeholder": "Taom qidirish...",
+      "cart_word": "Buyurtmalarim",
+      "cart_total": "Jami",
+      "cart_note": "Tanlovlaringiz shu yerda saqlanadi. Buyurtma berish uchun ofitsiantga murojaat qiling.",
+      "variant_title": "Turini tanlang",
+      "variant_note": "Turini va miqdorini tanlang — savatga avtomatik qo'shiladi.",
+      "aria_back": "Orqaga",
+      "aria_close": "Yopish",
+      "aria_variant": "Turini tanlash",
+      "aria_add": "Qo'shish",
+      "aria_remove": "O'chirish",
+      "add_to_cart": "Buyurtmalarga qo'shish",
+      "currency": "so'm",
+      "not_found": "Hech narsa topilmadi",
+      "categories_title": "Kategoriyalar",
+      "cart_empty_title": "Buyurtmalaringiz hali bo'sh.",
+      "cart_empty_sub": "Menyudan taom tanlang."
+    },
+    "ru": {
+      "menu_word": "Меню",
+      "menu_sub": "Список блюд",
+      "reserve_label": "Бронирование столика",
+      "delivery_label": "Доставка",
+      "feedback_label": "Предложения и жалобы",
+      "feedback_sub": "Поделитесь своим мнением",
+      "footer": "© 2026 Gold Restaurant — все права защищены",
+      "location": "город Ургенч, ул. Аль-Хоразми 102",
+      "search_placeholder": "Поиск блюда...",
+      "cart_word": "Мои заказы",
+      "cart_total": "Итого",
+      "cart_note": "Ваш выбор сохраняется здесь. Для оформления заказа обратитесь к официанту.",
+      "variant_title": "Выберите вариант",
+      "variant_note": "Выберите вариант и количество — они автоматически добавятся в корзину.",
+      "aria_back": "Назад",
+      "aria_close": "Закрыть",
+      "aria_variant": "Выбрать вариант",
+      "aria_add": "Добавить",
+      "aria_remove": "Удалить",
+      "add_to_cart": "Добавить в заказ",
+      "currency": "сум",
+      "not_found": "Ничего не найдено",
+      "categories_title": "Категории",
+      "cart_empty_title": "Пока нет заказов.",
+      "cart_empty_sub": "Выберите блюдо из меню."
+    },
+    "en": {
+      "menu_word": "Menu",
+      "menu_sub": "Food menu",
+      "reserve_label": "Table reservation",
+      "delivery_label": "Delivery",
+      "feedback_label": "Feedback & complaints",
+      "feedback_sub": "Share your feedback",
+      "footer": "© 2026 Gold Restaurant — all rights reserved",
+      "location": "Urgench City, Al-Khorazmiy St. 102",
+      "search_placeholder": "Search dish...",
+      "cart_word": "My Orders",
+      "cart_total": "Total",
+      "cart_note": "Your selections are saved here. Please ask a waiter to place your order.",
+      "variant_title": "Choose an option",
+      "variant_note": "Choose the option and quantity — it will be added to the cart automatically.",
+      "aria_back": "Back",
+      "aria_close": "Close",
+      "aria_variant": "Choose option",
+      "aria_add": "Add",
+      "aria_remove": "Remove",
+      "add_to_cart": "Add to order",
+      "currency": "UZS",
+      "not_found": "Nothing found",
+      "categories_title": "Categories",
+      "cart_empty_title": "No orders yet.",
+      "cart_empty_sub": "Choose a dish from the menu."
+    }
+  },
+  "catI18n": {
+    "bar": {
+      "ru": "Бар",
+      "en": "Bar"
+    },
+    "salatlar": {
+      "ru": "Салаты",
+      "en": "Salads"
+    },
+    "non": {
+      "ru": "Хлеб",
+      "en": "Bread"
+    },
+    "sovuq-taomlar": {
+      "ru": "Закуски",
+      "en": "Appetizers"
+    },
+    "suyuq-taomlar": {
+      "ru": "Первые блюда (супы)",
+      "en": "Soups"
+    },
+    "issiq-taomlar": {
+      "ru": "Горячие блюда (мясные блюда)",
+      "en": "Hot dishes (meat dishes)"
+    },
+    "shashlik": {
+      "ru": "Шашлык",
+      "en": "Shashlik (kebab)"
+    },
+    "hamir": {
+      "ru": "Блюда из теста",
+      "en": "Dough dishes"
+    },
+    "fastfood": {
+      "ru": "Фаст-фуд (бургер, лаваш, пицца)",
+      "en": "Fast Food (burger, lavash, pizza)"
+    },
+    "sushi": {
+      "ru": "Суши (суши-сеты)",
+      "en": "Sushi (sushi sets)"
+    },
+    "pasta": {
+      "ru": "Паста",
+      "en": "Pasta"
+    },
+    "desert": {
+      "ru": "Десерт",
+      "en": "Dessert"
+    },
+    "garnir": {
+      "ru": "Гарнир",
+      "en": "Side dishes"
+    }
+  },
+  "subcatI18n": {
+    "ff-burger": {
+      "ru": "Бургеры",
+      "en": "Burgers"
+    },
+    "ff-lavash": {
+      "ru": "Лаваши",
+      "en": "Lavash"
+    },
+    "ff-pizza": {
+      "ru": "Пицца дип",
+      "en": "Pizza dip"
+    },
+    "bar-ichimlik": {
+      "ru": "Напитки",
+      "en": "Drinks"
+    },
+    "bar-moxito": {
+      "ru": "Мохито",
+      "en": "Mojito"
+    },
+    "bar-fresh": {
+      "ru": "Фреш",
+      "en": "Fresh juice"
+    },
+    "bar-choy": {
+      "ru": "Чай",
+      "en": "Tea"
+    },
+    "bar-milkshake": {
+      "ru": "Милкшейк",
+      "en": "Milkshake"
+    },
+    "bar-kofe": {
+      "ru": "Кофе",
+      "en": "Coffee"
+    }
+  },
+  "itemI18n": {
+    "bar-cola": {
+      "ru": {
+        "name": "Кола",
+        "desc": ""
+      },
+      "en": {
+        "name": "Coca-Cola",
+        "desc": ""
+      }
+    },
+    "bar-fanta": {
+      "ru": {
+        "name": "Фанта",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fanta",
+        "desc": ""
+      }
+    },
+    "bar-sprite": {
+      "ru": {
+        "name": "Спрайт",
+        "desc": ""
+      },
+      "en": {
+        "name": "Sprite",
+        "desc": ""
+      }
+    },
+    "bar-chortoq-0.33": {
+      "ru": {
+        "name": "Чортоқ 0.33Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Chortoq mineral water 0.33L",
+        "desc": ""
+      }
+    },
+    "bar-suvgazsiz-0.5": {
+      "ru": {
+        "name": "Вода негазированная 0.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Still water 0.5L",
+        "desc": ""
+      }
+    },
+    "bar-suvgazsiz-1": {
+      "ru": {
+        "name": "Вода негазированная 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Still water 1L",
+        "desc": ""
+      }
+    },
+    "bar-suvgazsiz-1.5": {
+      "ru": {
+        "name": "Вода негазированная 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Still water 1.5L",
+        "desc": ""
+      }
+    },
+    "bar-gazlisuv-0.5": {
+      "ru": {
+        "name": "Газированная вода 0.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Sparkling water 0.5L",
+        "desc": ""
+      }
+    },
+    "bar-gazlisuv-1": {
+      "ru": {
+        "name": "Газированная вода 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Sparkling water 1L",
+        "desc": ""
+      }
+    },
+    "bar-gazlisuv-1.5": {
+      "ru": {
+        "name": "Газированная вода 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Sparkling water 1.5L",
+        "desc": ""
+      }
+    },
+    "bar-fusetea-0.5": {
+      "ru": {
+        "name": "Fuse Tea 0.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fuse Tea 0.5L",
+        "desc": ""
+      }
+    },
+    "bar-lipton-0.5": {
+      "ru": {
+        "name": "Липтон 0.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Lipton 0.5L",
+        "desc": ""
+      }
+    },
+    "bar-sok-sochnaya": {
+      "ru": {
+        "name": "Сок «Сочная долина»",
+        "desc": ""
+      },
+      "en": {
+        "name": "Juice \"Sochnaya Dolina\"",
+        "desc": ""
+      }
+    },
+    "bar-redbull": {
+      "ru": {
+        "name": "Ред Булл",
+        "desc": ""
+      },
+      "en": {
+        "name": "Red Bull",
+        "desc": ""
+      }
+    },
+    "bar-moxito-classic-stakan": {
+      "ru": {
+        "name": "Классический мохито (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Classic mojito (glass)",
+        "desc": ""
+      }
+    },
+    "bar-moxito-classic-1l": {
+      "ru": {
+        "name": "Классический мохито, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Classic mojito, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-classic-1.5l": {
+      "ru": {
+        "name": "Классический мохито, графин 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Classic mojito, 1.5L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-qulupnay-stakan": {
+      "ru": {
+        "name": "Клубничный мохито (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Strawberry mojito (glass)",
+        "desc": ""
+      }
+    },
+    "bar-moxito-qulupnay-1l": {
+      "ru": {
+        "name": "Клубничный мохито, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Strawberry mojito, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-qulupnay-1.5l": {
+      "ru": {
+        "name": "Клубничный мохито, графин 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Strawberry mojito, 1.5L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-apelsin-stakan": {
+      "ru": {
+        "name": "Апельсиновый мохито (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Orange mojito (glass)",
+        "desc": ""
+      }
+    },
+    "bar-moxito-apelsin-1l": {
+      "ru": {
+        "name": "Апельсиновый мохито, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Orange mojito, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-apelsin-1.5l": {
+      "ru": {
+        "name": "Апельсиновый мохито, графин 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Orange mojito, 1.5L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-yagoda-stakan": {
+      "ru": {
+        "name": "Ягодный мохито (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Berry mojito (glass)",
+        "desc": ""
+      }
+    },
+    "bar-moxito-yagoda-1l": {
+      "ru": {
+        "name": "Ягодный мохито, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Berry mojito, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-yagoda-1.5l": {
+      "ru": {
+        "name": "Ягодный мохито, графин 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Berry mojito, 1.5L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-mango-marakuya-stakan": {
+      "ru": {
+        "name": "Мохито манго-маракуйя (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Mango-passion fruit mojito (glass)",
+        "desc": ""
+      }
+    },
+    "bar-moxito-mango-marakuya-1l": {
+      "ru": {
+        "name": "Мохито манго-маракуйя, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Mango-passion fruit mojito, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-mango-marakuya-1.5l": {
+      "ru": {
+        "name": "Мохито манго-маракуйя, графин 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Mango-passion fruit mojito, 1.5L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-malina-stakan": {
+      "ru": {
+        "name": "Малиновый мохито (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Raspberry mojito (glass)",
+        "desc": ""
+      }
+    },
+    "bar-moxito-malina-1l": {
+      "ru": {
+        "name": "Малиновый мохито, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Raspberry mojito, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-malina-1.5l": {
+      "ru": {
+        "name": "Малиновый мохито, графин 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Raspberry mojito, 1.5L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-kok-laguna-stakan": {
+      "ru": {
+        "name": "Мохито «Голубая лагуна» (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Blue lagoon\" mojito (glass)",
+        "desc": ""
+      }
+    },
+    "bar-moxito-kok-laguna-1l": {
+      "ru": {
+        "name": "Мохито «Голубая лагуна», графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Blue lagoon\" mojito, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-kok-laguna-1.5l": {
+      "ru": {
+        "name": "Мохито «Голубая лагуна», графин 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Blue lagoon\" mojito, 1.5L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-tarxun-stakan": {
+      "ru": {
+        "name": "Тархун (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Tarragon lemonade (glass)",
+        "desc": ""
+      }
+    },
+    "bar-moxito-tarxun-1l": {
+      "ru": {
+        "name": "Тархун, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Tarragon lemonade, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-tarxun-1.5l": {
+      "ru": {
+        "name": "Тархун, графин 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Tarragon lemonade, 1.5L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-kivi-limonad-stakan": {
+      "ru": {
+        "name": "Лимонад киви (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Kiwi lemonade (glass)",
+        "desc": ""
+      }
+    },
+    "bar-moxito-kivi-limonad-1l": {
+      "ru": {
+        "name": "Лимонад киви, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Kiwi lemonade, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-moxito-kivi-limonad-1.5l": {
+      "ru": {
+        "name": "Лимонад киви, графин 1.5Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Kiwi lemonade, 1.5L carafe",
+        "desc": ""
+      }
+    },
+    "bar-fresh-apelsin-stakan": {
+      "ru": {
+        "name": "Фреш апельсиновый (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fresh orange juice (glass)",
+        "desc": ""
+      }
+    },
+    "bar-fresh-apelsin-1l": {
+      "ru": {
+        "name": "Фреш апельсиновый, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fresh orange juice, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-fresh-olma-stakan": {
+      "ru": {
+        "name": "Фреш яблочный (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fresh apple juice (glass)",
+        "desc": ""
+      }
+    },
+    "bar-fresh-olma-1l": {
+      "ru": {
+        "name": "Фреш яблочный, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fresh apple juice, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-fresh-sabzi-stakan": {
+      "ru": {
+        "name": "Фреш морковный (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fresh carrot juice (glass)",
+        "desc": ""
+      }
+    },
+    "bar-fresh-sabzi-1l": {
+      "ru": {
+        "name": "Фреш морковный, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fresh carrot juice, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-fresh-olma-sabzi-stakan": {
+      "ru": {
+        "name": "Фреш яблочно-морковный (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fresh apple-carrot juice (glass)",
+        "desc": ""
+      }
+    },
+    "bar-fresh-olma-sabzi-1l": {
+      "ru": {
+        "name": "Фреш яблочно-морковный, графин 1Л",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fresh apple-carrot juice, 1L carafe",
+        "desc": ""
+      }
+    },
+    "bar-choy-kok": {
+      "ru": {
+        "name": "Зелёный чай",
+        "desc": ""
+      },
+      "en": {
+        "name": "Green tea",
+        "desc": ""
+      }
+    },
+    "bar-choy-qora": {
+      "ru": {
+        "name": "Чёрный чай",
+        "desc": ""
+      },
+      "en": {
+        "name": "Black tea",
+        "desc": ""
+      }
+    },
+    "bar-choy-limonli": {
+      "ru": {
+        "name": "Чай с лимоном",
+        "desc": ""
+      },
+      "en": {
+        "name": "Tea with lemon",
+        "desc": ""
+      }
+    },
+    "bar-choy-karkade": {
+      "ru": {
+        "name": "Чай каркаде",
+        "desc": ""
+      },
+      "en": {
+        "name": "Hibiscus tea (Karkade)",
+        "desc": ""
+      }
+    },
+    "bar-choy-malina": {
+      "ru": {
+        "name": "Малиновый чай",
+        "desc": ""
+      },
+      "en": {
+        "name": "Raspberry tea",
+        "desc": ""
+      }
+    },
+    "bar-choy-mevali": {
+      "ru": {
+        "name": "Фруктовый чай",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fruit tea",
+        "desc": ""
+      }
+    },
+    "bar-choy-rezavor": {
+      "ru": {
+        "name": "Ягодный чай «Резавор»",
+        "desc": ""
+      },
+      "en": {
+        "name": "Rezavor berry tea",
+        "desc": ""
+      }
+    },
+    "bar-choy-bardak-stakan": {
+      "ru": {
+        "name": "Чай «Бардак» (стакан)",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Bardak\" tea (glass)",
+        "desc": ""
+      }
+    },
+    "bar-choy-bardak-kichik-choynak": {
+      "ru": {
+        "name": "Чай «Бардак», маленький чайник",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Bardak\" tea, small teapot",
+        "desc": ""
+      }
+    },
+    "bar-choy-bardak-katta-choynak": {
+      "ru": {
+        "name": "Чай «Бардак», большой чайник",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Bardak\" tea, large teapot",
+        "desc": ""
+      }
+    },
+    "bar-milkshake-molochniy": {
+      "ru": {
+        "name": "Милкшейк — молочный",
+        "desc": ""
+      },
+      "en": {
+        "name": "Milkshake — plain milk",
+        "desc": ""
+      }
+    },
+    "bar-milkshake-bananoviy": {
+      "ru": {
+        "name": "Милкшейк — банановый",
+        "desc": ""
+      },
+      "en": {
+        "name": "Milkshake — banana",
+        "desc": ""
+      }
+    },
+    "bar-milkshake-malinoviy": {
+      "ru": {
+        "name": "Милкшейк — малиновый",
+        "desc": ""
+      },
+      "en": {
+        "name": "Milkshake — raspberry",
+        "desc": ""
+      }
+    },
+    "bar-milkshake-oreo": {
+      "ru": {
+        "name": "Милкшейк — Орео",
+        "desc": ""
+      },
+      "en": {
+        "name": "Milkshake — Oreo",
+        "desc": ""
+      }
+    },
+    "bar-milkshake-snickers": {
+      "ru": {
+        "name": "Милкшейк — Сникерс",
+        "desc": ""
+      },
+      "en": {
+        "name": "Milkshake — Snickers",
+        "desc": ""
+      }
+    },
+    "bar-kofe-espresso-kichik": {
+      "ru": {
+        "name": "Эспрессо (маленький)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Espresso (small)",
+        "desc": ""
+      }
+    },
+    "bar-kofe-espresso-katta": {
+      "ru": {
+        "name": "Эспрессо (большой)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Espresso (large)",
+        "desc": ""
+      }
+    },
+    "bar-kofe-amerikano-m": {
+      "ru": {
+        "name": "Американо M",
+        "desc": ""
+      },
+      "en": {
+        "name": "Americano M",
+        "desc": ""
+      }
+    },
+    "bar-kofe-amerikano-b": {
+      "ru": {
+        "name": "Американо B",
+        "desc": ""
+      },
+      "en": {
+        "name": "Americano L",
+        "desc": ""
+      }
+    },
+    "bar-kofe-kapuchino": {
+      "ru": {
+        "name": "Капучино",
+        "desc": ""
+      },
+      "en": {
+        "name": "Cappuccino",
+        "desc": ""
+      }
+    },
+    "bar-kofe-latte": {
+      "ru": {
+        "name": "Латте",
+        "desc": ""
+      },
+      "en": {
+        "name": "Latte",
+        "desc": ""
+      }
+    },
+    "bar-kofe-ice-latte": {
+      "ru": {
+        "name": "Айс латте",
+        "desc": ""
+      },
+      "en": {
+        "name": "Ice Latte",
+        "desc": ""
+      }
+    },
+    "bar-kofe-raf": {
+      "ru": {
+        "name": "Раф",
+        "desc": ""
+      },
+      "en": {
+        "name": "Raf coffee",
+        "desc": ""
+      }
+    },
+    "sal-achchiq-chuchuk": {
+      "ru": {
+        "name": "Салат ачик-чучук",
+        "desc": "Перец, лук, соль"
+      },
+      "en": {
+        "name": "Achchik-chuchuk salad",
+        "desc": "Pepper, onion, salt"
+      }
+    },
+    "sal-greciya": {
+      "ru": {
+        "name": "Греческий",
+        "desc": "Помидор, огурец, лук, болгарский перец, сыр фета"
+      },
+      "en": {
+        "name": "Greek salad",
+        "desc": "Tomato, cucumber, onion, bell pepper, feta cheese"
+      }
+    },
+    "sal-kapriz": {
+      "ru": {
+        "name": "Мужской каприз",
+        "desc": "Говядина, копчёная колбаса, сыр гауда, огурец, майонез, картофель"
+      },
+      "en": {
+        "name": "Men's Caprice",
+        "desc": "Beef, smoked sausage, gouda cheese, cucumber, mayonnaise, potato"
+      }
+    },
+    "sal-yaponiya": {
+      "ru": {
+        "name": "Салат «по-японски»",
+        "desc": "Болгарский перец (красный, зелёный, жёлтый), помидор, огурец, говядина (вырезка)"
+      },
+      "en": {
+        "name": "Salad \"Japanese style\"",
+        "desc": "Bell pepper (red, green, yellow), tomato, cucumber, beef (tenderloin)"
+      }
+    },
+    "sal-gold": {
+      "ru": {
+        "name": "Фирменный салат «GOLD»",
+        "desc": "Микс салата, свёкла, медовый соус, помидоры черри, апельсин, говядина (вырезка)"
+      },
+      "en": {
+        "name": "\"GOLD\" signature salad",
+        "desc": "Salad mix, beetroot, honey sauce, cherry tomatoes, orange, beef (tenderloin)"
+      }
+    },
+    "sal-baklajon": {
+      "ru": {
+        "name": "Хрустящий баклажан",
+        "desc": "Жареный баклажан, микс салата, помидоры черри, сливочный сыр"
+      },
+      "en": {
+        "name": "Crispy eggplant",
+        "desc": "Fried eggplant, salad mix, cherry tomatoes, cream cheese"
+      }
+    },
+    "sal-sezar": {
+      "ru": {
+        "name": "Цезарь",
+        "desc": "Куриное филе, перепелиное яйцо, сыр пармезан, крутоны, соус"
+      },
+      "en": {
+        "name": "Caesar salad",
+        "desc": "Chicken fillet, quail egg, parmesan cheese, croutons, sauce"
+      }
+    },
+    "sal-olive": {
+      "ru": {
+        "name": "Салат Оливье",
+        "desc": "Картофель, морковь, огурец (солёный), майонез"
+      },
+      "en": {
+        "name": "Olivier salad",
+        "desc": "Potato, carrot, pickled cucumber, mayonnaise"
+      }
+    },
+    "sal-qovoq": {
+      "ru": {
+        "name": "Творожный сыр со свеклой",
+        "desc": "Микс салата, свёкла, творожный сыр, апельсин, медовый соус, помидоры черри, сыр фета"
+      },
+      "en": {
+        "name": "Cottage cheese with beetroot",
+        "desc": "Salad mix, beetroot, cottage cheese, orange, honey sauce, cherry tomatoes, feta cheese"
+      }
+    },
+    "sal-miks": {
+      "ru": {
+        "name": "Микс салат",
+        "desc": ""
+      },
+      "en": {
+        "name": "Mixed salad",
+        "desc": ""
+      }
+    },
+    "sal-baklajon-rulet": {
+      "ru": {
+        "name": "Рулет из баклажана",
+        "desc": "Жареный баклажан, панко крутоны, огурец, помидор, болгарский перец, сыр гауда"
+      },
+      "en": {
+        "name": "Eggplant roll",
+        "desc": "Fried eggplant, panko croutons, cucumber, tomato, bell pepper, gouda cheese"
+      }
+    },
+    "sal-vitaminli": {
+      "ru": {
+        "name": "Салат «Витаминный»",
+        "desc": "Белокочанная капуста, краснокочанная капуста, соль, перец, растительное масло, аджика"
+      },
+      "en": {
+        "name": "\"Vitamin\" salad",
+        "desc": "White cabbage, red cabbage, salt, pepper, vegetable oil, adjika"
+      }
+    },
+    "is-gibroy": {
+      "ru": {
+        "name": "Грибной",
+        "desc": "Грибы, картофель, болгарский перец, мясо"
+      },
+      "en": {
+        "name": "Mushroom cream soup",
+        "desc": "Mushrooms, potato, bell pepper, meat"
+      }
+    },
+    "is-chechevichniy": {
+      "ru": {
+        "name": "Чечевичный",
+        "desc": "Морковь, лук, чечевица, сметана, чеснок"
+      },
+      "en": {
+        "name": "Lentil soup",
+        "desc": "Carrot, onion, lentils, sour cream, garlic"
+      }
+    },
+    "is-mastava": {
+      "ru": {
+        "name": "Мастава",
+        "desc": "Морковь, лук, картофель, болгарский перец, мясо"
+      },
+      "en": {
+        "name": "Mastava (rice soup)",
+        "desc": "Carrot, onion, potato, bell pepper, meat"
+      }
+    },
+    "is-non-oshi": {
+      "ru": {
+        "name": "Ун оши",
+        "desc": "Фарш, тесто, соль"
+      },
+      "en": {
+        "name": "Un oshi (flour soup)",
+        "desc": "Minced meat, dough, salt"
+      }
+    },
+    "is-borsh": {
+      "ru": {
+        "name": "Борщ",
+        "desc": "Свёкла, капуста, лук, морковь, мясо"
+      },
+      "en": {
+        "name": "Borscht",
+        "desc": "Beetroot, cabbage, onion, carrot, meat"
+      }
+    },
+    "ff-chizburger": {
+      "ru": {
+        "name": "Чизбургер",
+        "desc": "Котлета, сыр, листья салата, помидор, огурец, чесночный соус"
+      },
+      "en": {
+        "name": "Cheeseburger",
+        "desc": "Patty, cheese, lettuce, tomato, cucumber, garlic sauce"
+      }
+    },
+    "ff-chizburger-2": {
+      "ru": {
+        "name": "Чизбургер 2x",
+        "desc": ""
+      },
+      "en": {
+        "name": "Cheeseburger 2x",
+        "desc": ""
+      }
+    },
+    "ff-euro-gold": {
+      "ru": {
+        "name": "Евро Голд Бургер",
+        "desc": "Котлета, листья салата, помидор, огурец, сыр, сырный соус"
+      },
+      "en": {
+        "name": "Euro Gold Burger",
+        "desc": "Patty, lettuce, tomato, cucumber, cheese, cheese sauce"
+      }
+    },
+    "ff-steyk-burger-3": {
+      "ru": {
+        "name": "Стейк бургер (3 шт)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Steak burger (3 pcs)",
+        "desc": ""
+      }
+    },
+    "ff-lavash-klassik": {
+      "ru": {
+        "name": "Лаваш классический",
+        "desc": "Мясо, помидор, огурец, чипсы, майонез, томатный соус"
+      },
+      "en": {
+        "name": "Classic lavash",
+        "desc": "Meat, tomato, cucumber, chips, mayonnaise, tomato sauce"
+      }
+    },
+    "ff-lavash-zirali": {
+      "ru": {
+        "name": "Лаваш острый",
+        "desc": ""
+      },
+      "en": {
+        "name": "Spicy lavash",
+        "desc": ""
+      }
+    },
+    "ff-lavash-peynili": {
+      "ru": {
+        "name": "Лаваш с сыром",
+        "desc": "Мясо, помидор, огурец, чипсы, майонез, томатный соус, сыр чеддер"
+      },
+      "en": {
+        "name": "Lavash with cheese",
+        "desc": "Meat, tomato, cucumber, chips, mayonnaise, tomato sauce, cheddar cheese"
+      }
+    },
+    "ff-doner": {
+      "ru": {
+        "name": "Донер",
+        "desc": "Мясо, помидор, огурец, майонез, томатный соус, лепёшка донер"
+      },
+      "en": {
+        "name": "Doner",
+        "desc": "Meat, tomato, cucumber, mayonnaise, tomato sauce, doner bread"
+      }
+    },
+    "ff-tandir-lavash": {
+      "ru": {
+        "name": "Тандыр лаваш",
+        "desc": "Мясо, помидор, огурец, чипсы, майонез, томатный соус, кунжут, сыр чеддер"
+      },
+      "en": {
+        "name": "Tandoor lavash",
+        "desc": "Meat, tomato, cucumber, chips, mayonnaise, tomato sauce, sesame, cheddar cheese"
+      }
+    },
+    "ff-iskandar": {
+      "ru": {
+        "name": "Кабоб «Искандер»",
+        "desc": "Мясо, перец, соус, сузьма, помидор, лепёшка, топлёное масло"
+      },
+      "en": {
+        "name": "Iskander kabob",
+        "desc": "Meat, pepper, sauce, strained yogurt (suzma), tomato, flatbread, melted butter"
+      }
+    },
+    "ff-pizza-pepperoni": {
+      "ru": {
+        "name": "Пицца дип «Пепперони»",
+        "desc": ""
+      },
+      "en": {
+        "name": "Pizza dip \"Pepperoni\"",
+        "desc": ""
+      }
+    },
+    "ff-pizza-goshtli": {
+      "ru": {
+        "name": "Пицца дип «Мясная»",
+        "desc": ""
+      },
+      "en": {
+        "name": "Pizza dip \"Meat\"",
+        "desc": ""
+      }
+    },
+    "ff-pizza-miks": {
+      "ru": {
+        "name": "Пицца дип «Микс»",
+        "desc": ""
+      },
+      "en": {
+        "name": "Pizza dip \"Mix\"",
+        "desc": ""
+      }
+    },
+    "ff-pizza-tovuqli": {
+      "ru": {
+        "name": "Пицца дип «Куриная»",
+        "desc": ""
+      },
+      "en": {
+        "name": "Pizza dip \"Chicken\"",
+        "desc": ""
+      }
+    },
+    "ff-pizza-santa-barbara": {
+      "ru": {
+        "name": "Пицца дип «Санта-Барбара»",
+        "desc": ""
+      },
+      "en": {
+        "name": "Pizza dip \"Santa Barbara\"",
+        "desc": ""
+      }
+    },
+    "ff-pizza-qoziqorin": {
+      "ru": {
+        "name": "Пицца дип «Грибная»",
+        "desc": ""
+      },
+      "en": {
+        "name": "Pizza dip \"Mushroom\"",
+        "desc": ""
+      }
+    },
+    "ff-pizza-korichka": {
+      "ru": {
+        "name": "Пицца дип «Коричка»",
+        "desc": ""
+      },
+      "en": {
+        "name": "Pizza dip \"Korichka\"",
+        "desc": ""
+      }
+    },
+    "shashlik-ijjon": {
+      "ru": {
+        "name": "Шашлык «Иджон»",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Ijjon\" kebab (minced skewer)",
+        "desc": ""
+      }
+    },
+    "shashlik-qanotchalar": {
+      "ru": {
+        "name": "Крылышки",
+        "desc": ""
+      },
+      "en": {
+        "name": "Chicken wings",
+        "desc": ""
+      }
+    },
+    "shashlik-mol-boklakli": {
+      "ru": {
+        "name": "Шашлык из говядины (кусками)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Beef shashlik (chunks)",
+        "desc": ""
+      }
+    },
+    "shashlik-semechka-qoy": {
+      "ru": {
+        "name": "Шашлык «Семечка» (из баранины)",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Semechka\" shashlik (lamb)",
+        "desc": ""
+      }
+    },
+    "hamir-shivit-oshi": {
+      "ru": {
+        "name": "Шивит ош",
+        "desc": "Зелёное тесто, картофель, катык"
+      },
+      "en": {
+        "name": "Shivit oshi (green noodles)",
+        "desc": "Green dough noodles, potato, yogurt (qatiq)"
+      }
+    },
+    "hamir-olot-somsa": {
+      "ru": {
+        "name": "Олотская самса",
+        "desc": ""
+      },
+      "en": {
+        "name": "Olot samsa",
+        "desc": ""
+      }
+    },
+    "hamir-qoshirma-goshtli": {
+      "ru": {
+        "name": "Капширма — мясная",
+        "desc": ""
+      },
+      "en": {
+        "name": "Qoshirma — meat",
+        "desc": ""
+      }
+    },
+    "hamir-qoshirma-pishloqli": {
+      "ru": {
+        "name": "Капширма — сырная",
+        "desc": ""
+      },
+      "en": {
+        "name": "Qoshirma — cheese",
+        "desc": ""
+      }
+    },
+    "hamir-qoshirma-qovoqli": {
+      "ru": {
+        "name": "Капширма — тыквенная",
+        "desc": ""
+      },
+      "en": {
+        "name": "Qoshirma — pumpkin",
+        "desc": ""
+      }
+    },
+    "hamir-qoshirma-brinza-kok": {
+      "ru": {
+        "name": "Капширма — с брынзой и зеленью",
+        "desc": ""
+      },
+      "en": {
+        "name": "Qoshirma — feta cheese & herbs",
+        "desc": ""
+      }
+    },
+    "hamir-qoshirma-pishloq-kok": {
+      "ru": {
+        "name": "Капширма — с сыром и зеленью",
+        "desc": ""
+      },
+      "en": {
+        "name": "Qoshirma — cheese & herbs",
+        "desc": ""
+      }
+    },
+    "hamir-qoshirma-ismaloqli": {
+      "ru": {
+        "name": "Капширма — со шпинатом",
+        "desc": ""
+      },
+      "en": {
+        "name": "Qoshirma — spinach",
+        "desc": ""
+      }
+    },
+    "hamir-gumma-goshtli": {
+      "ru": {
+        "name": "Гумма — мясная",
+        "desc": ""
+      },
+      "en": {
+        "name": "Gumma — meat",
+        "desc": ""
+      }
+    },
+    "hamir-gumma-ismaloqli": {
+      "ru": {
+        "name": "Гумма — со шпинатом",
+        "desc": ""
+      },
+      "en": {
+        "name": "Gumma — spinach",
+        "desc": ""
+      }
+    },
+    "hamir-gumma-pishloqli": {
+      "ru": {
+        "name": "Гумма — сырная",
+        "desc": ""
+      },
+      "en": {
+        "name": "Gumma — cheese",
+        "desc": ""
+      }
+    },
+    "hamir-gumma-qovoqli": {
+      "ru": {
+        "name": "Гумма — тыквенная",
+        "desc": ""
+      },
+      "en": {
+        "name": "Gumma — pumpkin",
+        "desc": ""
+      }
+    },
+    "hamir-gumma-brinza-kok": {
+      "ru": {
+        "name": "Гумма — с брынзой и зеленью",
+        "desc": ""
+      },
+      "en": {
+        "name": "Gumma — feta cheese & herbs",
+        "desc": ""
+      }
+    },
+    "hamir-gumma-pishloq-kok": {
+      "ru": {
+        "name": "Гумма — с сыром и зеленью",
+        "desc": ""
+      },
+      "en": {
+        "name": "Gumma — cheese & herbs",
+        "desc": ""
+      }
+    },
+    "hamir-barak-kadi": {
+      "ru": {
+        "name": "Барак «Кади» (с тыквой)",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Kadi\" barak (pumpkin)",
+        "desc": ""
+      }
+    },
+    "hamir-barak-tuxum": {
+      "ru": {
+        "name": "Барак с яйцом",
+        "desc": ""
+      },
+      "en": {
+        "name": "Egg barak",
+        "desc": ""
+      }
+    },
+    "hamir-barak-kok": {
+      "ru": {
+        "name": "Зелёный барак (с зеленью)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Green barak (herbs)",
+        "desc": ""
+      }
+    },
+    "hamir-barak-kutir": {
+      "ru": {
+        "name": "Барак «Кутир»",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"Kutir\" barak",
+        "desc": ""
+      }
+    },
+    "hamir-barak-assorti": {
+      "ru": {
+        "name": "Ассорти барак",
+        "desc": ""
+      },
+      "en": {
+        "name": "Barak assortment",
+        "desc": ""
+      }
+    },
+    "hamir-pelmeni": {
+      "ru": {
+        "name": "Пельмени",
+        "desc": ""
+      },
+      "en": {
+        "name": "Dumplings (pelmeni)",
+        "desc": ""
+      }
+    },
+    "hamir-pelmeni-qovurilgan": {
+      "ru": {
+        "name": "Жареные пельмени",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fried dumplings",
+        "desc": ""
+      }
+    },
+    "issiq-shur-kabob": {
+      "ru": {
+        "name": "Шур кабоб (200 г)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Shur kabob (200 g)",
+        "desc": ""
+      }
+    },
+    "issiq-qaymoq-kabob": {
+      "ru": {
+        "name": "Каймак кабоб",
+        "desc": ""
+      },
+      "en": {
+        "name": "Qaymoq kabob (cream sauce)",
+        "desc": ""
+      }
+    },
+    "issiq-saryoga-dil": {
+      "ru": {
+        "name": "Сарёга — с укропом",
+        "desc": ""
+      },
+      "en": {
+        "name": "Saryoga — dill",
+        "desc": ""
+      }
+    },
+    "issiq-saryoga-tovuq": {
+      "ru": {
+        "name": "Сарёга — курица",
+        "desc": ""
+      },
+      "en": {
+        "name": "Saryoga — chicken",
+        "desc": ""
+      }
+    },
+    "issiq-bifshtrogonov": {
+      "ru": {
+        "name": "Бефстроганов с пюре",
+        "desc": "Пюре, говядина (вырезка), грибной соус"
+      },
+      "en": {
+        "name": "Beef Stroganoff with mashed potatoes",
+        "desc": "Mashed potatoes, beef (tenderloin), mushroom sauce"
+      }
+    },
+    "issiq-kasharli-kofte": {
+      "ru": {
+        "name": "Кофте «Кашарли» с сыром",
+        "desc": "Фарш, сыр моцарелла, сыр чеддер"
+      },
+      "en": {
+        "name": "Kofte with cheese",
+        "desc": "Minced meat, mozzarella cheese, cheddar cheese"
+      }
+    },
+    "issiq-oltin-juja": {
+      "ru": {
+        "name": "Золотой цыплёнок (1 шт)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Golden chicken (1 pc)",
+        "desc": ""
+      }
+    },
+    "issiq-klassik-steyk": {
+      "ru": {
+        "name": "Классический стейк (250 г)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Classic steak (250 g)",
+        "desc": ""
+      }
+    },
+    "issiq-zigirik": {
+      "ru": {
+        "name": "Зигирик (огузок)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Zigirik (rump steak)",
+        "desc": ""
+      }
+    },
+    "issiq-steyk-bonfile": {
+      "ru": {
+        "name": "Стейк бон-филе",
+        "desc": ""
+      },
+      "en": {
+        "name": "Bone-in fillet steak",
+        "desc": ""
+      }
+    },
+    "issiq-xan-burger": {
+      "ru": {
+        "name": "Хан бургер",
+        "desc": ""
+      },
+      "en": {
+        "name": "Khan burger",
+        "desc": ""
+      }
+    },
+    "issiq-plita-kabob": {
+      "ru": {
+        "name": "Кабоб «Плита»",
+        "desc": "Лепёшка, говядина (вырезка), лук, красный помидор"
+      },
+      "en": {
+        "name": "\"Plita\" kabob (griddle kabob)",
+        "desc": "Flatbread, beef (tenderloin), onion, red tomato"
+      }
+    },
+    "issiq-medalyon-mol": {
+      "ru": {
+        "name": "Медальоны из говядины",
+        "desc": ""
+      },
+      "en": {
+        "name": "Beef medallions",
+        "desc": ""
+      }
+    },
+    "sovuq-assorti": {
+      "ru": {
+        "name": "Холодное ассорти",
+        "desc": ""
+      },
+      "en": {
+        "name": "Cold appetizer platter",
+        "desc": ""
+      }
+    },
+    "sovuq-3-kunlik": {
+      "ru": {
+        "name": "«Трёхдневное» соленье",
+        "desc": ""
+      },
+      "en": {
+        "name": "\"3-day\" pickle",
+        "desc": ""
+      }
+    },
+    "sovuq-meva-assorti": {
+      "ru": {
+        "name": "Фруктовое ассорти",
+        "desc": ""
+      },
+      "en": {
+        "name": "Fruit platter",
+        "desc": ""
+      }
+    },
+    "garnir-kartoshka-aydaho": {
+      "ru": {
+        "name": "Картофель Айдахо",
+        "desc": ""
+      },
+      "en": {
+        "name": "Idaho potatoes",
+        "desc": ""
+      }
+    },
+    "garnir-kartoshka-fri": {
+      "ru": {
+        "name": "Картофель фри",
+        "desc": ""
+      },
+      "en": {
+        "name": "French fries",
+        "desc": ""
+      }
+    },
+    "garnir-sous-tomat": {
+      "ru": {
+        "name": "Соус томатный",
+        "desc": ""
+      },
+      "en": {
+        "name": "Tomato sauce",
+        "desc": ""
+      }
+    },
+    "garnir-sous-pishloq": {
+      "ru": {
+        "name": "Соус сырный",
+        "desc": ""
+      },
+      "en": {
+        "name": "Cheese sauce",
+        "desc": ""
+      }
+    },
+    "sushi-filadelfiya": {
+      "ru": {
+        "name": "Филадельфия",
+        "desc": "Рис, нори, огурец, сливочный сыр"
+      },
+      "en": {
+        "name": "Philadelphia roll",
+        "desc": "Rice, nori, cucumber, cream cheese"
+      }
+    },
+    "sushi-fila-zapechenniy": {
+      "ru": {
+        "name": "Фила запечённый",
+        "desc": "Рис, нори, огурец, сливочный сыр, острый соус"
+      },
+      "en": {
+        "name": "Baked Phila roll",
+        "desc": "Rice, nori, cucumber, cream cheese, spicy sauce"
+      }
+    },
+    "sushi-samurai": {
+      "ru": {
+        "name": "Ролл «Самурай»",
+        "desc": "Рис, нори, лосось, острый соус, омлет, сливочный сыр"
+      },
+      "en": {
+        "name": "\"Samurai\" roll",
+        "desc": "Rice, nori, salmon, spicy sauce, omelet, cream cheese"
+      }
+    },
+    "sushi-losos-zapechenniy": {
+      "ru": {
+        "name": "Лосось запечённый",
+        "desc": "Рис, сливочный сыр, омлет, огурец, нори, лосось, острый соус"
+      },
+      "en": {
+        "name": "Baked salmon roll",
+        "desc": "Rice, cream cheese, omelet, cucumber, nori, salmon, spicy sauce"
+      }
+    },
+    "sushi-krab-zapechenniy": {
+      "ru": {
+        "name": "Краб запечённый",
+        "desc": "Рис, нори, сливочный сыр, омлет, острый соус, крабовое мясо"
+      },
+      "en": {
+        "name": "Baked crab roll",
+        "desc": "Rice, nori, cream cheese, omelet, spicy sauce, crab meat"
+      }
+    },
+    "sushi-krevetka-zapechenniy": {
+      "ru": {
+        "name": "Креветка запечённая",
+        "desc": "Рис, нори, сливочный сыр, омлет, острый соус, креветка"
+      },
+      "en": {
+        "name": "Baked shrimp roll",
+        "desc": "Rice, nori, cream cheese, omelet, spicy sauce, shrimp"
+      }
+    },
+    "sushi-ugor-zapechenniy": {
+      "ru": {
+        "name": "Угорь запечённый",
+        "desc": "Рис, сливочный сыр, нори, огурец, омлет, острый соус, кунжут, угорь"
+      },
+      "en": {
+        "name": "Baked eel roll",
+        "desc": "Rice, cream cheese, nori, cucumber, omelet, spicy sauce, sesame, eel"
+      }
+    },
+    "sushi-midi-zapechenniy": {
+      "ru": {
+        "name": "Мидии запечённые",
+        "desc": "Рис, сливочный сыр, нори, огурец, омлет, острый соус, мидии"
+      },
+      "en": {
+        "name": "Baked mussel roll",
+        "desc": "Rice, cream cheese, nori, cucumber, omelet, spicy sauce, mussels"
+      }
+    },
+    "sushi-roll-jareniy": {
+      "ru": {
+        "name": "Жареный ролл",
+        "desc": "Огурец, лосось, сливочный сыр, темпура, нори"
+      },
+      "en": {
+        "name": "Fried roll",
+        "desc": "Cucumber, salmon, cream cheese, tempura, nori"
+      }
+    },
+    "sushi-chicken-zapechenniy": {
+      "ru": {
+        "name": "Курица запечённая",
+        "desc": "Сливочный сыр, жареная курица, огурец, болгарский перец, салат айсберг"
+      },
+      "en": {
+        "name": "Baked chicken roll",
+        "desc": "Cream cheese, fried chicken, cucumber, bell pepper, iceberg lettuce"
+      }
+    },
+    "sushi-midi-rakushka": {
+      "ru": {
+        "name": "Мидии «ракушка»",
+        "desc": "Мидии, острый соус"
+      },
+      "en": {
+        "name": "Mussel shell",
+        "desc": "Mussels, spicy sauce"
+      }
+    },
+    "sushi-set-semeyniy": {
+      "ru": {
+        "name": "Семейный сет",
+        "desc": ""
+      },
+      "en": {
+        "name": "Family set",
+        "desc": ""
+      }
+    },
+    "sushi-set-dustlar": {
+      "ru": {
+        "name": "Сет «Дустлар» (Друзья)",
+        "desc": "Курица запечённая, угорь запечённый, мидии запечённые, самурай, фила лайт"
+      },
+      "en": {
+        "name": "\"Dustlar\" (Friends) set",
+        "desc": "Baked chicken roll, baked eel roll, baked mussel roll, Samurai roll, Phila light roll"
+      }
+    },
+    "sushi-set-katta": {
+      "ru": {
+        "name": "Большой сет",
+        "desc": "Филадельфия, курица запечённая, краб запечённый, креветка запечённая, мидии запечённые, угорь запечённый"
+      },
+      "en": {
+        "name": "Large set",
+        "desc": "Philadelphia roll, baked chicken roll, baked crab roll, baked shrimp roll, baked mussel roll, baked eel roll"
+      }
+    },
+    "zakuski-grenki": {
+      "ru": {
+        "name": "Гренки",
+        "desc": "Хлеб, острый соус"
+      },
+      "en": {
+        "name": "Croutons (garlic toast)",
+        "desc": "Bread, spicy sauce"
+      }
+    },
+    "pasta-alfredo": {
+      "ru": {
+        "name": "Альфредо",
+        "desc": "Феттучини, шампиньоны, помидоры черри, сливки"
+      },
+      "en": {
+        "name": "Alfredo",
+        "desc": "Fettuccine, mushrooms, cherry tomatoes, cream"
+      }
+    },
+    "pasta-penne-goshtli": {
+      "ru": {
+        "name": "Пенне с мясом",
+        "desc": "Макароны пенне, мясо, томатный соус, сыр пармезан"
+      },
+      "en": {
+        "name": "Penne with meat",
+        "desc": "Penne pasta, meat, tomato sauce, parmesan cheese"
+      }
+    },
+    "pasta-udon-tovuq": {
+      "ru": {
+        "name": "Удон с курицей",
+        "desc": "Лапша удон, куриное филе, соус, морковь, болгарский перец, кабачок"
+      },
+      "en": {
+        "name": "Udon with chicken",
+        "desc": "Udon noodles, chicken fillet, sauce, carrot, bell pepper, zucchini"
+      }
+    },
+    "pasta-udon-goshtli": {
+      "ru": {
+        "name": "Удон с мясом",
+        "desc": "Лапша удон, мясо, соус унаги, морковь, болгарский перец, кабачок"
+      },
+      "en": {
+        "name": "Udon with meat",
+        "desc": "Udon noodles, meat, unagi sauce, carrot, bell pepper, zucchini"
+      }
+    },
+    "non-lepyoshka": {
+      "ru": {
+        "name": "Лепёшка",
+        "desc": ""
+      },
+      "en": {
+        "name": "Lepyoshka (flatbread)",
+        "desc": ""
+      }
+    },
+    "non-churak": {
+      "ru": {
+        "name": "Чурак нон",
+        "desc": ""
+      },
+      "en": {
+        "name": "Churak bread",
+        "desc": ""
+      }
+    },
+    "non-qizil-patir": {
+      "ru": {
+        "name": "Красный патыр",
+        "desc": ""
+      },
+      "en": {
+        "name": "Red patir bread",
+        "desc": ""
+      }
+    },
+    "non-baget": {
+      "ru": {
+        "name": "Багет",
+        "desc": ""
+      },
+      "en": {
+        "name": "Baguette",
+        "desc": ""
+      }
+    },
+    "non-assorti": {
+      "ru": {
+        "name": "Ассорти хлеба",
+        "desc": ""
+      },
+      "en": {
+        "name": "Bread assortment",
+        "desc": ""
+      }
+    },
+    "desert-chizkeyk-san-sebastian": {
+      "ru": {
+        "name": "Чизкейк «Сан-Себастьян»",
+        "desc": ""
+      },
+      "en": {
+        "name": "San Sebastian cheesecake",
+        "desc": ""
+      }
+    },
+    "desert-shokolad-fondan": {
+      "ru": {
+        "name": "Шоколадный фондан",
+        "desc": ""
+      },
+      "en": {
+        "name": "Chocolate fondant",
+        "desc": ""
+      }
+    },
+    "desert-belgiya-vaflasi": {
+      "ru": {
+        "name": "Бельгийская вафля (микс)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Belgian waffle (mix)",
+        "desc": ""
+      }
+    },
+    "desert-morojniy-3sharik": {
+      "ru": {
+        "name": "Мороженое (3 шарика)",
+        "desc": ""
+      },
+      "en": {
+        "name": "Ice cream (3 scoops)",
+        "desc": ""
+      }
+    },
+    "desert-morojniy-nutella": {
+      "ru": {
+        "name": "Мороженое с Нутеллой",
+        "desc": ""
+      },
+      "en": {
+        "name": "Ice cream with Nutella",
+        "desc": ""
+      }
+    }
+  },
+  "variantI18n": {
+    "ff-pizza-pepperoni": {
+      "kichik": {
+        "ru": "Маленькая",
+        "en": "Small"
+      },
+      "orta": {
+        "ru": "Средняя",
+        "en": "Medium"
+      },
+      "katta": {
+        "ru": "Большая",
+        "en": "Large"
+      }
+    },
+    "ff-pizza-goshtli": {
+      "kichik": {
+        "ru": "Маленькая",
+        "en": "Small"
+      },
+      "orta": {
+        "ru": "Средняя",
+        "en": "Medium"
+      },
+      "katta": {
+        "ru": "Большая",
+        "en": "Large"
+      }
+    },
+    "ff-pizza-miks": {
+      "kichik": {
+        "ru": "Маленькая",
+        "en": "Small"
+      },
+      "orta": {
+        "ru": "Средняя",
+        "en": "Medium"
+      },
+      "katta": {
+        "ru": "Большая",
+        "en": "Large"
+      }
+    },
+    "ff-pizza-tovuqli": {
+      "kichik": {
+        "ru": "Маленькая",
+        "en": "Small"
+      },
+      "orta": {
+        "ru": "Средняя",
+        "en": "Medium"
+      },
+      "katta": {
+        "ru": "Большая",
+        "en": "Large"
+      }
+    },
+    "ff-pizza-santa-barbara": {
+      "kichik": {
+        "ru": "Маленькая",
+        "en": "Small"
+      },
+      "orta": {
+        "ru": "Средняя",
+        "en": "Medium"
+      },
+      "katta": {
+        "ru": "Большая",
+        "en": "Large"
+      }
+    },
+    "ff-pizza-qoziqorin": {
+      "kichik": {
+        "ru": "Маленькая",
+        "en": "Small"
+      },
+      "orta": {
+        "ru": "Средняя",
+        "en": "Medium"
+      },
+      "katta": {
+        "ru": "Большая",
+        "en": "Large"
+      }
+    },
+    "ff-pizza-korichka": {
+      "kichik": {
+        "ru": "Маленькая",
+        "en": "Small"
+      },
+      "orta": {
+        "ru": "Средняя",
+        "en": "Medium"
+      },
+      "katta": {
+        "ru": "Большая",
+        "en": "Large"
+      }
+    },
+    "sovuq-meva-assorti": {
+      "kichik": {
+        "ru": "Маленькая",
+        "en": "Small"
+      },
+      "katta": {
+        "ru": "Большая",
+        "en": "Large"
+      }
+    },
+    "hamir-olot-somsa": {
+      "1dona": {
+        "ru": "1 штука",
+        "en": "1 piece"
+      },
+      "3dona": {
+        "ru": "3 штуки",
+        "en": "3 pieces"
+      }
+    },
+    "issiq-xan-burger": {
+      "3dona": {
+        "ru": "3 штуки",
+        "en": "3 pieces"
+      },
+      "6dona": {
+        "ru": "6 штук",
+        "en": "6 pieces"
+      }
+    },
+    "issiq-steyk-bonfile": {
+      "demiglas": {
+        "ru": "Соус демиглас",
+        "en": "Demi-glace sauce"
+      },
+      "sariyog": {
+        "ru": "Сливочное масло",
+        "en": "Creamy butter sauce"
+      }
+    }
+  }
+}
