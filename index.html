@@ -828,20 +828,27 @@
   }
   .sub-back-btn{
     flex:0 0 auto;
-    width:34px;
-    height:34px;
-    border-radius:50%;
-    border:1px solid rgba(255,255,255,0.18);
-    background:rgba(255,255,255,0.06);
-    color:var(--gold-1);
+    height:38px;
+    padding:0 16px 0 12px;
+    border-radius:999px;
+    border:1px solid rgba(233,200,115,0.55);
+    background:linear-gradient(180deg, rgba(233,200,115,0.22), rgba(233,200,115,0.08));
+    color:#fbeecb;
     display:flex;
     align-items:center;
-    justify-content:center;
+    gap:7px;
     cursor:pointer;
-    transition:transform 0.2s ease, background 0.2s ease;
+    font-family:inherit;
+    font-size:14px;
+    font-weight:700;
+    letter-spacing:0.01em;
+    box-shadow:0 4px 12px rgba(184,137,47,0.28);
+    transition:transform 0.2s ease, background 0.2s ease, box-shadow 0.2s ease;
   }
-  .sub-back-btn svg{ width:16px; height:16px; }
-  .sub-back-btn:active{ transform:scale(0.88); background:rgba(255,255,255,0.12); }
+  .sub-back-btn svg{ width:17px; height:17px; flex:0 0 auto; }
+  .sub-back-btn:active{ transform:scale(0.92); background:linear-gradient(180deg, rgba(233,200,115,0.32), rgba(233,200,115,0.14)); }
+  .sub-back-btn:hover{ box-shadow:0 6px 16px rgba(184,137,47,0.4); }
+  .sub-back-btn-label{ line-height:1; white-space:nowrap; }
   .sub-toolbar-title{
     font-family:'Cormorant Garamond', serif;
     font-size:26px;
@@ -2167,6 +2174,7 @@
       <div class="sub-toolbar">
         <button type="button" class="sub-back-btn" data-backnav aria-label="${ui('aria_back')}">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 18l-6-6 6-6"/></svg>
+          <span class="sub-back-btn-label">${ui('aria_back')}</span>
         </button>
         <div class="sub-toolbar-title">${backTitle}</div>
       </div>`;
